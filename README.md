@@ -122,68 +122,39 @@ Worked on a confidential healthcare AI project involving **ECG signal analysis a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,matlab,git,github,vscode,html,css,bootstrap,js" alt="Programming and development skills">
+<img src="https://skillicons.dev/icons?i=python,cpp,matlab,git,github,vscode,html,css,bootstrap,js" alt="Python, C++, MATLAB, Git, GitHub, VS Code, HTML, CSS, Bootstrap and JavaScript">
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,opencv,scipy,streamlit,fastapi" alt="NumPy, Pandas, Scikit-learn, OpenCV, SciPy, Streamlit and FastAPI">
 
 </div>
 
-**Programming & Software**
-- Python fundamentals, data structures, functions, file handling and Object-Oriented Programming
-- C++ fundamentals studied during the 1st and 2nd years of the preparatory engineering cycle
-- MATLAB fundamentals
-- Algorithms, data structures and procedural programming
-- HTML, CSS, Bootstrap, JavaScript, DOM and ES6
-- Git & GitHub / version control
+### 🔄 Currently Learning · GOMYCODE
 
-**Data Science & Databases**
-- NumPy for numerical and data analysis
-- Pandas for data cleaning, transformation and exploration
-- Python data visualization
-- Tableau
-- APIs and data gathering
-- Web scraping
-- Relational databases: conceptual model, relational model, DDL, DML and DQL
-- Mathematics for Data Science
-- Basic Machine Learning: simple ML algorithms, train/test split, cross-validation, evaluation metrics, data cleaning and feature scaling
+**Data Science / AI**
 
-**Biomedical AI / Imaging**
-- Machine-learning applications in healthcare
-- Medical image processing and segmentation
-- Biomedical signal analysis
-- Computer vision fundamentals
-- CNN fundamentals and introductory Deep Learning concepts
-- Streamlit-based model serving / interactive applications
-- pydicom, OpenCV, SciPy and related scientific Python tools through projects
+<div align="center">
 
-### 🔄 Currently Learning — GOMYCODE
+<img src="https://skillicons.dev/icons?i=pytorch,python,numpy,pandas,sklearn,tensorflow,huggingface" alt="PyTorch, Python, NumPy, Pandas, Scikit-learn, TensorFlow and Hugging Face">
 
-I'm currently following **two GOMYCODE certificate tracks**, with planned completion in **December 2026**.
+</div>
 
-**Data Science Track**
-- Fundamentals of AI, ML and DL
-- Forward and backward propagation
-- Training mechanics and GPU use for Deep Learning
-- CNN design and training
-- Data augmentation, dropout and batch normalization
-- Performance evaluation and transfer learning
-- Feature extraction vs. fine-tuning
-- Model serving with Streamlit
-- Encoder-Decoder and BERT
-- Advanced Deep Learning architectures
+**Full-Stack / Web Development**
 
-**Full-Stack / Web Development Track**
-- React.js, JSX and React components
-- Props, state, debugging, hooks, React Router and Redux
-- REST APIs and Postman
-- TypeScript 5 and React with TypeScript
-- Next.js
-- MongoDB, Mongoose and Node.js
-- Express and REST API development
-- Cloud fundamentals and deployment
-- MERN application development
-- Scrum, teamwork and interview preparation
+<div align="center">
 
-**Current level:** building foundations and progressing toward practical, project-based application.  
-**Planned certificate completion:** **December 2026**
+<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs,express,mongodb,redux,postman" alt="React, TypeScript, Next.js, Node.js, Express, MongoDB, Redux and Postman">
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=aws,docker" alt="Cloud and deployment technologies">
+
+</div>
+
+<p align="center">
+  <sub>🎓 Two GOMYCODE certificate tracks · Planned completion: <b>December 2026</b></sub>
+</p>
 
 ## 🧬 Biomedical & AI Focus
 
