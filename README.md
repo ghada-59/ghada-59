@@ -124,31 +124,30 @@ Worked on a confidential healthcare AI project involving **ECG signal analysis a
 
 <img src="https://skillicons.dev/icons?i=python,cpp,matlab,git,github,vscode,html,css,bootstrap,js" alt="Python, C++, MATLAB, Git, GitHub, VS Code, HTML, CSS, Bootstrap and JavaScript">
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,opencv,scipy,streamlit,fastapi" alt="NumPy, Pandas, Scikit-learn, OpenCV, SciPy, Streamlit and FastAPI">
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,opencv,scipy,streamlit,fastapi,pytorch" alt="NumPy, Pandas, Scikit-learn, OpenCV, SciPy, Streamlit, FastAPI and PyTorch">
 
 </div>
 
 ### 🔄 Currently Learning · GOMYCODE
 
-**Data Science / AI**
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=pytorch,python,numpy,pandas,sklearn,tensorflow,huggingface" alt="PyTorch, Python, NumPy, Pandas, Scikit-learn, TensorFlow and Hugging Face">
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Artificial Intelligence">
+<img src="https://img.shields.io/badge/Machine%20Learning-Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Machine Learning">
+<img src="https://img.shields.io/badge/Deep%20Learning-Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Deep Learning">
+<img src="https://img.shields.io/badge/CNN-Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="CNN">
+<img src="https://img.shields.io/badge/Transfer%20Learning-Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Transfer Learning">
+<img src="https://img.shields.io/badge/BERT-Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="BERT">
 
-</div>
+<br>
 
-**Full-Stack / Web Development**
+<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs,express,mongodb,redux,postman,aws,docker" alt="React, TypeScript, Next.js, Node.js, Express, MongoDB, Redux, Postman, AWS and Docker">
 
-<div align="center">
+<br>
 
-<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs,express,mongodb,redux,postman" alt="React, TypeScript, Next.js, Node.js, Express, MongoDB, Redux and Postman">
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=aws,docker" alt="Cloud and deployment technologies">
+<img src="https://img.shields.io/badge/Cloud%20Fundamentals-Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Cloud Fundamentals">
+<img src="https://img.shields.io/badge/Deployment-Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Deployment">
+<img src="https://img.shields.io/badge/SCRUM-Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Scrum">
 
 </div>
 
