@@ -116,31 +116,74 @@ Worked on a confidential healthcare AI project involving **ECG signal analysis a
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
+
+### ✅ Already Studied
 
 <div align="center">
 
-### Programming & Development
-
-<img src="https://skillicons.dev/icons?i=python,cpp,matlab,git,github,vscode" alt="Programming and development">
-
-<br><br>
-
-### AI / Data / Scientific Computing
-
-<img src="https://skillicons.dev/icons?i=pytorch,opencv" alt="AI and computer vision">
-
-<br><br>
-
-**NumPy · Pandas · Scikit-learn · SciPy · Matplotlib · Streamlit · FastAPI · pydicom**
+<img src="https://skillicons.dev/icons?i=python,cpp,matlab,git,github,vscode,html,css,bootstrap,js" alt="Programming and development skills">
 
 </div>
 
-### Current learning
+**Programming & Software**
+- Python fundamentals, data structures, functions, file handling and Object-Oriented Programming
+- C++ fundamentals studied during the 1st and 2nd years of the preparatory engineering cycle
+- MATLAB fundamentals
+- Algorithms, data structures and procedural programming
+- HTML, CSS, Bootstrap, JavaScript, DOM and ES6
+- Git & GitHub / version control
 
-**C++ · Computer Vision · Medical Imaging · DICOM · Software Engineering**
+**Data Science & Databases**
+- NumPy for numerical and data analysis
+- Pandas for data cleaning, transformation and exploration
+- Python data visualization
+- Tableau
+- APIs and data gathering
+- Web scraping
+- Relational databases: conceptual model, relational model, DDL, DML and DQL
+- Mathematics for Data Science
+- Basic Machine Learning: simple ML algorithms, train/test split, cross-validation, evaluation metrics, data cleaning and feature scaling
 
----
+**Biomedical AI / Imaging**
+- Machine-learning applications in healthcare
+- Medical image processing and segmentation
+- Biomedical signal analysis
+- Computer vision fundamentals
+- CNN fundamentals and introductory Deep Learning concepts
+- Streamlit-based model serving / interactive applications
+- pydicom, OpenCV, SciPy and related scientific Python tools through projects
+
+### 🔄 Currently Learning — GOMYCODE
+
+I'm currently following **two GOMYCODE certificate tracks**, with planned completion in **December 2026**.
+
+**Data Science Track**
+- Fundamentals of AI, ML and DL
+- Forward and backward propagation
+- Training mechanics and GPU use for Deep Learning
+- CNN design and training
+- Data augmentation, dropout and batch normalization
+- Performance evaluation and transfer learning
+- Feature extraction vs. fine-tuning
+- Model serving with Streamlit
+- Encoder-Decoder and BERT
+- Advanced Deep Learning architectures
+
+**Full-Stack / Web Development Track**
+- React.js, JSX and React components
+- Props, state, debugging, hooks, React Router and Redux
+- REST APIs and Postman
+- TypeScript 5 and React with TypeScript
+- Next.js
+- MongoDB, Mongoose and Node.js
+- Express and REST API development
+- Cloud fundamentals and deployment
+- MERN application development
+- Scrum, teamwork and interview preparation
+
+**Current level:** building foundations and progressing toward practical, project-based application.  
+**Planned certificate completion:** **December 2026**
 
 ## 🧬 Biomedical & AI Focus
 
