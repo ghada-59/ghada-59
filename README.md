@@ -81,9 +81,9 @@ Software Development
 ### 🔒 Mandatory Healthcare AI Internship — Confidential
 **June–July 2026 · 2 months**
 
-Worked on a confidential healthcare AI project focused on **ECG signal analysis, machine learning and deep learning**.
+Worked on a confidential healthcare AI project focused on **ECG signal analysis and machine learning**.
 
-At a high level, the work involved **ECG preprocessing and analysis, a 1D CNN + BiLSTM model, model evaluation and software integration**.
+The work included **ECG preprocessing and analysis, a 1D CNN + BiLSTM deep learning model, model evaluation and software integration**.
 
 > Some technical details, source code and project materials are intentionally not published because of confidentiality requirements.
 
@@ -111,7 +111,14 @@ At a high level, the work involved **ECG preprocessing and analysis, a 1D CNN + 
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,opencv,scipy,streamlit,fastapi,pytorch&perline=8" alt="Python and AI tools">
+<img src="https://cdn.simpleicons.org/numpy" height="46" alt="NumPy">
+<img src="https://cdn.simpleicons.org/pandas" height="46" alt="Pandas">
+<img src="https://cdn.simpleicons.org/scikitlearn" height="46" alt="Scikit-learn">
+<img src="https://cdn.simpleicons.org/opencv" height="46" alt="OpenCV">
+<img src="https://cdn.simpleicons.org/scipy" height="46" alt="SciPy">
+<img src="https://cdn.simpleicons.org/streamlit" height="46" alt="Streamlit">
+<img src="https://cdn.simpleicons.org/fastapi" height="46" alt="FastAPI">
+<img src="https://cdn.simpleicons.org/pytorch" height="46" alt="PyTorch">
 </p>
 
 ### 🔄 Currently Learning
