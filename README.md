@@ -38,10 +38,6 @@ I'm strengthening my **AI and Data Science** foundations while progressively dev
 
 I studied **C++ during the first two years of my preparatory cycle** and continue developing my software engineering skills through coursework and projects.
 
-### 💡 How I learn
-
-I learn by understanding the concept, applying it to a real problem, building a project, analyzing the results and documenting what I learned.
-
 </td>
 <td width="35%" align="center" valign="middle">
 
@@ -145,7 +141,7 @@ The work included **ECG preprocessing and analysis, a 1D CNN + BiLSTM deep learn
 
 ## 🚀 Featured Projects
 
-### 🥇 [Biomedical Image Denoising Suite](https://github.com/ghada-59/biomedical-image-denoising-suite)
+### [Biomedical Image Denoising Suite](https://github.com/ghada-59/biomedical-image-denoising-suite)
 
 Interactive biomedical-image restoration and filtering project covering **X-ray, MRI and DICOM/CT** workflows.
 
@@ -153,7 +149,7 @@ Interactive biomedical-image restoration and filtering project covering **X-ray,
 
 ---
 
-### 🥈 [Medical CBIR System](https://github.com/ghada-59/Medical_CBIR_System)
+### [Medical CBIR System](https://github.com/ghada-59/Medical_CBIR_System)
 
 A **Content-Based Image Retrieval** system for breast ultrasound images using the BUSI dataset.
 
@@ -161,7 +157,7 @@ A **Content-Based Image Retrieval** system for breast ultrasound images using th
 
 ---
 
-### 🥉 [MRI Brain Tumor Classification](https://github.com/ghada-59/Projet_IRM_Classifier_Naive-_Bayes)
+### [MRI Brain Tumor Classification](https://github.com/ghada-59/Projet_IRM_Classifier_Naive-_Bayes)
 
 Medical-image classification project comparing **Naive Bayes and SVM**, with HOG + pixel features and hyperparameter optimization.
 
@@ -192,7 +188,7 @@ Machine-learning pipeline for healthcare data with preprocessing, cross-validati
 - **IBM SkillsBuild — AI Fundamentals**
 - **Cisco Networking Academy — Programming Essentials in Python**
 
-### 📘 Current Certificates
+### 📘 Current Learning
 
 - **GOMYCODE — Data Science Certificate Track** · In progress · Planned completion: **December 2026**
 - **GOMYCODE — Full-Stack Web Development Certificate Track** · In progress · Planned completion: **December 2026**
@@ -238,18 +234,6 @@ Machine-learning pipeline for healthcare data with preprocessing, cross-validati
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghada-59/ghada-59/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ghada-59/ghada-59/output/github-contribution-grid-snake.svg">
 </picture>
-
-</div>
-
----
-
-## 🎯 Current Goal
-
-<div align="center">
-
-**Biomedical Engineering → AI → Data Science → Medical Imaging → Healthcare Software**
-
-Building practical skills for a **4–6 month graduation internship (PFE)** in an international MedTech, Healthcare AI or HealthTech environment.
 
 </div>
 
