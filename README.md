@@ -1,27 +1,33 @@
-<!--
-  GHADA BOUGHRARA — GitHub Profile README
-  Profile: https://github.com/ghada-59
--->
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Ghada%20Boughrara&fontSize=46&fontAlignY=40&desc=Biomedical%20Engineering%20%7C%20AI%20%26%20Data%20Science%20%7C%20Healthcare%20Technology&descSize=18&descAlignY=62&animation=fadeIn&color=0:7B3F67,50:EF93C4,100:F8BBD0">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Ghada%20Boughrara&fontSize=46&fontAlignY=40&desc=Biomedical%20Engineering%20%7C%20AI%20%26%20Data%20Science%20%7C%20Healthcare%20Technology&descSize=18&descAlignY=62&animation=fadeIn&color=0:EF93C4,50:F8BBD0,100:FFE6F1">
-  <img alt="Ghada Boughrara — Biomedical Engineering, AI & Data Science" src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Ghada%20Boughrara&fontSize=46&fontAlignY=40&desc=Biomedical%20Engineering%20%7C%20AI%20%26%20Data%20Science%20%7C%20Healthcare%20Technology&descSize=18&descAlignY=62&animation=fadeIn&color=0:EF93C4,50:F8BBD0,100:FFE6F1">
-</picture>
+<table>
+<tr>
+<td width="24%" align="center">
+
+<img src="https://github.com/ghada-59.png?size=300" width="150" height="150" alt="Ghada Boughrara">
+
+</td>
+<td width="76%" align="left">
+
+<h1>Ghada Boughrara</h1>
+
+<h3>Biomedical Engineering · AI & Data Science</h3>
+
+<p>Healthcare Technology · Medical Imaging · Biomedical Signals · Software Engineering</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=19&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=650&lines=Biomedical+Engineering+Student;AI+%26+Data+Science+for+Healthcare;Medical+Imaging+%26+Biomedical+Signals;Healthcare+Software+%26+Digital+Health" alt="Typing animation">
+
+</td>
+</tr>
+</table>
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=21&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=780&lines=Biomedical+Engineering+Student;AI+%26+Data+Science+for+Healthcare;Biomedical+Signal+Processing+%7C+Medical+Imaging;Python+%7C+Machine+Learning+%7C+Deep+Learning;Learning%2C+building+and+exploring+MedTech" alt="Typing animation">
-
-<br><br>
 
 <a href="https://github.com/ghada-59">
   <img src="https://img.shields.io/github/followers/ghada-59?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=27232A" alt="GitHub followers">
 </a>
 <a href="https://github.com/ghada-59?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-30-EF93C4?style=for-the-badge&labelColor=27232A" alt="Repositories">
+  <img src="https://img.shields.io/badge/Repositories-31-EF93C4?style=for-the-badge&labelColor=27232A" alt="31 repositories">
 </a>
 <img src="https://komarev.com/ghpvc/?username=ghada-59&style=for-the-badge&color=EF93C4&label=PROFILE+VIEWS" alt="Profile views">
 
@@ -29,66 +35,52 @@
 
 ---
 
+
+
 ## 🌸 About Me
 
 <table>
 <tr>
 <td width="68%" valign="top">
 
-I'm a **Biomedical Engineering student at ESPITA (Tunisia)**, currently pursuing the engineering cycle of my five-year engineering program.
+I'm a **Biomedical Engineering student at ESPITA, Tunisia**, currently pursuing the engineering cycle of my five-year engineering program.
 
-I'm especially interested in the intersection of:
+My interests include:
 
-🧬 **Biomedical Engineering**  
-🤖 **Artificial Intelligence & Machine Learning**  
-📊 **Data Science & Medical Data Analysis**  
-🫀 **Biomedical Signal Processing**  
-🩻 **Medical Imaging & Computer Vision**  
-💻 **Healthcare Software & Digital Health**
+**Biomedical Engineering · Artificial Intelligence · Data Science · Biomedical Signal Processing · Medical Imaging · Healthcare Software**
 
 My academic and personal projects focus on applying computational methods to biomedical data and healthcare problems.
 
 ### 🔎 Current direction
 
-I'm building stronger foundations in **Python, Machine Learning, Deep Learning, data analysis, biomedical signals and medical imaging**, while progressively developing my **C++ and software engineering** skills.
+I'm strengthening my **AI and Data Science** foundations while further developing my **software engineering** skills through project-based learning.
+
+I already have an academic foundation in **C++** from the first two years of my preparatory cycle.
 
 ### 💡 How I learn
 
-I learn by understanding the concept, applying it to a real problem, building a small project, analyzing the results and documenting what I learned.
+I learn by understanding the concept, applying it to a real problem, building a project, analyzing the results and documenting what I learned.
 
 </td>
 
 <td width="32%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=220&section=header&text=BIOMED%20%2B%20AI&fontSize=24&fontColor=ffffff&animation=fadeIn&color=0:EF93C4,100:F8BBD0" alt="Biomedical AI">
+<img src="https://github.com/ghada-59.png?size=260" width="145" height="145" alt="Ghada Boughrara">
 
 <br><br>
 
-🫀 &nbsp; 🤖  
-<br>
-🩻 &nbsp; 📊  
-<br>
-💻 &nbsp; 🏥
+<strong>Healthcare Technology</strong>
+
+<br><br>
+
+Biomedical Engineering<br>
+AI & Data Science<br>
+Medical Imaging & Signals<br>
+Healthcare Software
 
 </td>
 </tr>
 </table>
-
----
-
-## 🎓 Education
-
-**Engineering Cycle in Biomedical Engineering**  
-ESPITA — École Supérieure Privée d'Ingénierie et de Technologie Appliquée  
-**2024 – Present · Sousse, Tunisia**
-
-**Integrated Preparatory Cycle in Biomedical Engineering**  
-ESPITA  
-**2022 – 2024**
-
-**Baccalaureate in Mathematics**  
-Lycée Pilote de Sousse  
-**2020 – 2021**
 
 ---
 
@@ -118,54 +110,78 @@ Worked on a confidential healthcare AI project involving **ECG signal analysis a
 
 ## 🛠️ Technical Skills
 
+### Core Competencies
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Biomedical%20Engineering-EF93C4?style=for-the-badge&labelColor=27232A" alt="Biomedical Engineering">
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-EF93C4?style=for-the-badge&labelColor=27232A" alt="Artificial Intelligence">
+<img src="https://img.shields.io/badge/Machine%20Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Machine Learning">
+<img src="https://img.shields.io/badge/Deep%20Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Deep Learning">
+<img src="https://img.shields.io/badge/Data%20Science-EF93C4?style=for-the-badge&labelColor=27232A" alt="Data Science">
+
+</div>
+
 ### ✅ Already Studied
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,matlab,git,github,vscode,html,css,bootstrap,js" alt="Python, C++, MATLAB, Git, GitHub, VS Code, HTML, CSS, Bootstrap and JavaScript">
+<p>
+<img src="https://cdn.simpleicons.org/python" height="46" alt="Python">
+<img src="https://cdn.simpleicons.org/cplusplus" height="46" alt="C++">
+<img src="https://cdn.simpleicons.org/matlab" height="46" alt="MATLAB">
+<img src="https://cdn.simpleicons.org/git" height="46" alt="Git">
+<img src="https://cdn.simpleicons.org/github" height="46" alt="GitHub">
+<img src="https://cdn.simpleicons.org/visualstudiocode" height="46" alt="VS Code">
+<img src="https://cdn.simpleicons.org/html5" height="46" alt="HTML">
+<img src="https://cdn.simpleicons.org/css3" height="46" alt="CSS">
+<img src="https://cdn.simpleicons.org/bootstrap" height="46" alt="Bootstrap">
+<img src="https://cdn.simpleicons.org/javascript" height="46" alt="JavaScript">
+</p>
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,opencv,scipy,streamlit,fastapi,pytorch" alt="NumPy, Pandas, Scikit-learn, OpenCV, SciPy, Streamlit, FastAPI and PyTorch">
+<p>
+<img src="https://cdn.simpleicons.org/numpy" height="46" alt="NumPy">
+<img src="https://cdn.simpleicons.org/pandas" height="46" alt="Pandas">
+<img src="https://cdn.simpleicons.org/scikitlearn" height="46" alt="Scikit-learn">
+<img src="https://cdn.simpleicons.org/opencv" height="46" alt="OpenCV">
+<img src="https://cdn.simpleicons.org/scipy" height="46" alt="SciPy">
+<img src="https://cdn.simpleicons.org/streamlit" height="46" alt="Streamlit">
+<img src="https://cdn.simpleicons.org/fastapi" height="46" alt="FastAPI">
+<img src="https://cdn.simpleicons.org/pytorch" height="46" alt="PyTorch">
+</p>
 
 </div>
 
-### 🔄 Currently Learning · GOMYCODE
+### 🔄 Currently Learning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Artificial Intelligence">
-<img src="https://img.shields.io/badge/Machine%20Learning-Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Machine Learning">
-<img src="https://img.shields.io/badge/Deep%20Learning-Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Deep Learning">
-<img src="https://img.shields.io/badge/CNN-Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="CNN">
-<img src="https://img.shields.io/badge/Transfer%20Learning-Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Transfer Learning">
-<img src="https://img.shields.io/badge/BERT-Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="BERT">
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs,express,mongodb,redux,postman,aws,docker" alt="React, TypeScript, Next.js, Node.js, Express, MongoDB, Redux, Postman, AWS and Docker">
-
-<br>
-
-<img src="https://img.shields.io/badge/Cloud%20Fundamentals-Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Cloud Fundamentals">
-<img src="https://img.shields.io/badge/Deployment-Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Deployment">
-<img src="https://img.shields.io/badge/SCRUM-Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Scrum">
+<p>
+<img src="https://cdn.simpleicons.org/react" height="46" alt="React">
+<img src="https://cdn.simpleicons.org/typescript" height="46" alt="TypeScript">
+<img src="https://cdn.simpleicons.org/nextdotjs" height="46" alt="Next.js">
+<img src="https://cdn.simpleicons.org/nodedotjs" height="46" alt="Node.js">
+<img src="https://cdn.simpleicons.org/express" height="46" alt="Express">
+<img src="https://cdn.simpleicons.org/mongodb" height="46" alt="MongoDB">
+<img src="https://cdn.simpleicons.org/redux" height="46" alt="Redux">
+<img src="https://cdn.simpleicons.org/postman" height="46" alt="Postman">
+<img src="https://cdn.simpleicons.org/amazonaws" height="46" alt="AWS">
+<img src="https://cdn.simpleicons.org/docker" height="46" alt="Docker">
+</p>
 
 </div>
 
-<p align="center">
-  <sub>🎓 Two GOMYCODE certificate tracks · Planned completion: <b>December 2026</b></sub>
-</p>
-
-## 🧬 Biomedical & AI Focus
+## 🧬 Areas of Focus
 
 | Area | Topics |
 |---|---|
-| 🫀 Biomedical Signals | ECG · preprocessing · filtering · signal analysis |
-| 🤖 Machine Learning | Classification · clustering · feature engineering · evaluation |
-| 🧠 Deep Learning | CNN · RNN · LSTM / BiLSTM |
-| 🩻 Medical Imaging | MRI · ultrasound · mammography · image processing |
-| 👁️ Computer Vision | Segmentation · feature extraction · image denoising |
-| 📊 Data Science | EDA · data cleaning · statistics · visualization |
-| 💻 Healthcare Software | Python · APIs · FastAPI · Streamlit · Git/GitHub |
+| Biomedical Signals | ECG · preprocessing · filtering · signal analysis |
+| Machine Learning | Classification · clustering · feature engineering · evaluation |
+| Deep Learning | CNN · LSTM / BiLSTM |
+| Medical Imaging | MRI · ultrasound · mammography · image processing |
+| Computer Vision | Segmentation · feature extraction · image denoising |
+| Data Science | EDA · data cleaning · statistics · visualization |
+| Healthcare Software | Python · APIs · FastAPI · Streamlit · Git/GitHub |
 
 ---
 
@@ -213,26 +229,15 @@ Machine-learning pipeline for healthcare data with preprocessing, cross-validati
 
 ## 📚 Certifications & Training
 
-### AI / Programming
+### Completed
 
 - **IBM SkillsBuild — AI Fundamentals**
-- **Cisco — Programming Essentials in Python**
 - **Cisco — Python Essentials 2**
-- **Cisco — Introduction to IoT**
 
-### Biomedical / Data / Imaging
+### 🎓 In Progress
 
-- **Medical Imaging — Computer Vision with MATLAB**
-- **Medical Imaging Platforms & Techniques**
-- **Homology Modeling and AI-Based Modeling**
-- **Biostatistics & Data Analysis**
-- **MDR — Regulatory Requirements for Medical Devices**
-- **Innovation Technologique pour les Meilleurs Soins**
-- **Breast Cancer Detection Using Machine Learning**
-- **Credit Card Fraud Detection Using Machine Learning**
-- **Introduction to Python**
-- **Flutter**
-- **GMAO**
+- **GOMYCODE — Data Science Certificate Track** · In progress · Planned completion: **December 2026**
+- **GOMYCODE — Full-Stack Web Development Certificate Track** · In progress · Planned completion: **December 2026**
 
 ---
 
@@ -258,8 +263,8 @@ Machine-learning pipeline for healthcare data with preprocessing, cross-validati
 <div align="center">
 
 🇹🇳 **Arabic** — Native  
-🇫🇷 **French** — C1  
-🇬🇧 **English** — B2 / C1  
+🇫🇷 **French** — Second language  
+🇬🇧 **English** — B2  
 🇩🇪 **German** — A2
 
 </div>
@@ -270,11 +275,15 @@ Machine-learning pipeline for healthcare data with preprocessing, cross-validati
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ghada-59&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000" height="170" alt="GitHub statistics">
+### 📊 GitHub Overview
+
+<img src="https://github-readme-stats.vercel.app/api?username=ghada-59&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000" height="170" alt="GitHub statistics">
+
+### 💻 Top Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghada-59&layout=compact&langs_count=8&hide_border=true&title_color=EF93C4&text_color=777777&bg_color=00000000" height="170" alt="Top languages">
 
-<br><br>
+### 🔥 GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=ghada-59&hide_border=true&background=FFFFFF00&stroke=F8BBD0&ring=FF69B4&fire=EF93C4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=EF93C4&sideNums=EF93C4&dates=999999" alt="GitHub streak">
 
@@ -294,7 +303,7 @@ Machine-learning pipeline for healthcare data with preprocessing, cross-validati
 
 </div>
 
----
+<br>
 
 ## 🎯 Current Goal
 
