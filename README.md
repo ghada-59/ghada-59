@@ -10,18 +10,9 @@
 
 <br><br>
 
-<table align="center">
-<tr>
-<td align="center">🫀<br><strong>Biomedical Signals</strong><br><sub>ECG · preprocessing · analysis</sub></td>
-<td align="center">🤖<br><strong>AI / ML / DL</strong><br><sub>classification · CNN · LSTM</sub></td>
-<td align="center">🩻<br><strong>Medical Imaging</strong><br><sub>MRI · segmentation · CV</sub></td>
-<td align="center">💻<br><strong>Software Development</strong><br><sub>Python · APIs · Git</sub></td>
-</tr>
-</table>
-
 <br>
 
-<strong>🎯 Target:</strong> 4–6 month graduation internship (PFE) in Biomedical AI, Medical Imaging, Biomedical Signals or Healthcare Software
+<strong>🎯 4–6 month graduation internship (PFE) in Biomedical AI, Medical Imaging, Biomedical Signals or Healthcare Software</strong>
 
 </div>
 
@@ -193,27 +184,11 @@ Machine-learning pipeline for healthcare data with preprocessing, cross-validati
 
 - **IBM SkillsBuild — AI Fundamentals**
 - **Cisco Networking Academy — Programming Essentials in Python**
-- **Cisco Networking Academy — Python Essentials 2**
-- **Cisco Networking Academy — Introduction to IoT**
 
 ### 📘 Current Certificates
 
 - **GOMYCODE — Data Science Certificate Track** · In progress · Planned completion: **December 2026**
 - **GOMYCODE — Full-Stack Web Development Certificate Track** · In progress · Planned completion: **December 2026**
-
-### 🧪 Selected Training
-
-- **2025** — Computer-Aided Maintenance Management (GMAO)
-- **2025** — Medical Imaging Platforms & Techniques
-- **2025** — Medical Imaging & Computer Vision with MATLAB
-- **2024** — MDR: Regulatory Requirements for Medical Devices · IHE ESPITA
-- **2024** — Flutter
-- **2024** — Homology Modeling and AI-Based Modeling
-- **2024** — Technological Innovation for Better Healthcare · AI International Training Center
-- **2023** — Biostatistics & Data Analysis
-- **2022** — Breast Cancer Detection Using Machine Learning
-- **2022** — Credit Card Fraud Detection Using Machine Learning
-- **2022** — Introduction to Python
 
 ---
 
