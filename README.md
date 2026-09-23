@@ -53,9 +53,9 @@ My academic and personal projects focus on applying computational methods to bio
 
 ### 🔎 Current direction
 
-I'm strengthening my **AI and Data Science** foundations while further developing my **software engineering** skills through project-based learning.
+I'm strengthening my **AI and Data Science** foundations while progressively developing my **software engineering** skills through project-based learning.
 
-I already have an academic foundation in **C++** from the first two years of my preparatory cycle.
+I studied **C++ during the first two years of my preparatory cycle** and continue developing my software engineering skills through current coursework and projects.
 
 ### 💡 How I learn
 
@@ -89,18 +89,16 @@ Healthcare Software
 ### 🏥 Biomedical Engineering Internship — Fattouma Bourguiba Hospital
 **June 2025 · Monastir, Tunisia**
 
-- Participated in preventive and corrective maintenance of biomedical equipment.
-- Observed and assisted in diagnostic procedures for medical-device failures.
-- Gained practical exposure to a hospital biomedical engineering environment.
+- Gained practical exposure to biomedical equipment and hospital engineering workflows.
+- Observed preventive maintenance, verification and troubleshooting activities.
 
 ### 🏥 Biomedical Engineering Internship — Clinique La Concorde
 **June 2024 · Sousse, Tunisia**
 
-- Participated in biomedical equipment maintenance and verification activities.
-- Observed diagnostic procedures and troubleshooting of medical-device issues.
+- Gained practical exposure to biomedical equipment maintenance and verification.
 
 ### 🔒 Healthcare AI Internship — Confidential
-**June–July · 2 months**
+**June–July 2026 · 2 months**
 
 Worked on a confidential healthcare AI project involving **ECG signal analysis and machine learning**.
 
@@ -228,11 +226,6 @@ Machine-learning pipeline for healthcare data with preprocessing, cross-validati
 ---
 
 ## 📚 Certifications & Training
-
-### Completed
-
-- **IBM SkillsBuild — AI Fundamentals**
-- **Cisco — Python Essentials 2**
 
 ### 🎓 In Progress
 
