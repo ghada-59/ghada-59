@@ -12,7 +12,7 @@
 
 <br>
 
-<strong>🎯 4–6 month graduation internship (PFE) in Biomedical AI, Medical Imaging, Biomedical Signals or Healthcare Software</strong>
+<strong>🎯 Seeking a 4–6-month graduation internship (PFE) in Biomedical Engineering, AI, Medical Imaging, Biomedical Signals or Healthcare Software · 2027</strong>
 
 </div>
 
@@ -234,8 +234,8 @@ Machine-learning pipeline for healthcare data with preprocessing, cross-validati
 
 <div align="center">
 
-🇹🇳 **Arabic** — Native  
-🇫🇷 **French** — C1  
+🇹🇳 **Arabic** — Native / Mother Tongue  
+🇫🇷 **French** — C1 · Second Language  
 🇬🇧 **English** — B2  
 🇩🇪 **German** — A2
 
