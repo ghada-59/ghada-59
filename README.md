@@ -12,7 +12,7 @@
 
 <br>
 
-<strong>🎯 Seeking a 4–6-month graduation internship (PFE) in Biomedical Engineering, AI, Medical Imaging, Biomedical Signals or Healthcare Software · 2027</strong>
+<strong>🎯 Seeking a 4–6-month graduation internship (PFE) for 2027 in Biomedical Engineering, AI, Medical Imaging, Biomedical Signals or Healthcare Software</strong>
 
 </div>
 
@@ -30,7 +30,7 @@ My interests include:
 
 **Biomedical Engineering · Artificial Intelligence · Data Science · Biomedical Signal Processing · Medical Imaging · Healthcare Software**
 
-My academic and personal projects focus on applying computational methods to biomedical data and healthcare-related problems.
+My academic and practice projects focus on applying computational methods to biomedical data and healthcare-related problems. Most of the projects shown here are academic or practice projects created to learn, experiment and strengthen my technical skills. My 2026 healthcare AI internship is the exception: it was completed in a professional setting and is subject to confidentiality.
 
 ### 🔎 Current direction
 
@@ -141,7 +141,7 @@ The work included **ECG preprocessing and analysis, a 1D CNN + BiLSTM deep learn
 
 ## 🚀 Featured Projects
 
-### [Biomedical Image Denoising Suite](https://github.com/ghada-59/biomedical-image-denoising-suite)
+### [Biomedical Image Denoising Suite](https://github.com/ghada-59/biomedical-image-denoising-suite) · 🔬 Academic / Practice Project
 
 Interactive biomedical-image restoration and filtering project covering **X-ray, MRI and DICOM/CT** workflows.
 
@@ -149,7 +149,7 @@ Interactive biomedical-image restoration and filtering project covering **X-ray,
 
 ---
 
-### [Medical CBIR System](https://github.com/ghada-59/Medical_CBIR_System)
+### [Medical CBIR System](https://github.com/ghada-59/Medical_CBIR_System) · 🔬 Academic / Practice Project
 
 A **Content-Based Image Retrieval** system for breast ultrasound images using the BUSI dataset.
 
@@ -157,7 +157,7 @@ A **Content-Based Image Retrieval** system for breast ultrasound images using th
 
 ---
 
-### [MRI Brain Tumor Classification](https://github.com/ghada-59/Projet_IRM_Classifier_Naive-_Bayes)
+### [MRI Brain Tumor Classification](https://github.com/ghada-59/Projet_IRM_Classifier_Naive-_Bayes) · 🔬 Academic / Practice Project
 
 Medical-image classification project comparing **Naive Bayes and SVM**, with HOG + pixel features and hyperparameter optimization.
 
@@ -173,11 +173,18 @@ A Python project exploring **Otsu thresholding and multi-level intensity segment
 
 ---
 
-### 🩺 [Diabetes Risk Prediction](https://github.com/ghada-59/Diabetes-Risk-Prediction)
+### 🩺 [Diabetes Risk Prediction](https://github.com/ghada-59/Diabetes-Risk-Prediction) · 🔬 Academic / Practice Project
 
 Machine-learning pipeline for healthcare data with preprocessing, cross-validation and an interactive Streamlit interface.
 
 **Highlights:** Pandas · Scikit-learn · preprocessing pipelines · cross-validation · Streamlit
+
+
+### 🎧 [VibeTunes — Music Discovery Web App](https://github.com/ghada-59/music-app-using-deezer-API) · 💻 Practice Project
+
+A browser-based practice project built with **HTML5, CSS3 and vanilla JavaScript**, integrating the **Deezer API** for music search and previews.
+
+**Highlights:** JavaScript (ES6+) · REST/API integration · responsive web design · DOM interaction · GitHub Pages
 
 ---
 
