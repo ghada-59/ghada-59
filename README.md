@@ -212,6 +212,24 @@ Machine-learning pipeline for healthcare data with preprocessing, cross-validati
 
 ---
 
+## 💗 Soft Skills
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Communication-EF93C4?style=for-the-badge&labelColor=27232A" alt="Communication">
+<img src="https://img.shields.io/badge/Organization%20%26%20Time%20Management-EF93C4?style=for-the-badge&labelColor=27232A" alt="Organization and Time Management">
+<img src="https://img.shields.io/badge/Teamwork-EF93C4?style=for-the-badge&labelColor=27232A" alt="Teamwork">
+
+<br>
+
+<img src="https://img.shields.io/badge/Analytical%20Mindset-EF93C4?style=for-the-badge&labelColor=27232A" alt="Analytical Mindset">
+<img src="https://img.shields.io/badge/Rapid%20Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Rapid Learning">
+<img src="https://img.shields.io/badge/Adaptability-EF93C4?style=for-the-badge&labelColor=27232A" alt="Adaptability">
+
+</div>
+
+---
+
 ## 🌍 Languages
 
 <div align="center">
