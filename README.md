@@ -41,8 +41,6 @@ I studied **C++ during the first two years of my preparatory cycle** and continu
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="./avatar.jpg" width="175" alt="Ghada Boughrara">
-
 <br><br>
 
 <strong>Healthcare Technology</strong>
