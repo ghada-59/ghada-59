@@ -165,6 +165,14 @@ Medical-image classification project comparing **Naive Bayes and SVM**, with HOG
 
 ---
 
+### 🧬 [Diabetes Dataset Segmentation — Hierarchical Clustering](https://github.com/ghada-59/HAC_diabetes_Segmentation) · 🔬 Academic / Practice Project
+
+An unsupervised-learning project exploring **Hierarchical Agglomerative Clustering (HAC)** on the Pima diabetes dataset.
+
+**Highlights:** Python · Pandas · NumPy · Scikit-learn · hierarchical clustering · PCA · data preprocessing · cluster evaluation
+
+---
+
 ### 🧠 [MRI Brain Segmentation](https://github.com/ghada-59/Mri-Brain-Segmentation-Mini-Exercice)
 
 A Python project exploring **Otsu thresholding and multi-level intensity segmentation** on brain MRI data.
