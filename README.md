@@ -261,8 +261,8 @@ A browser-based practice project built with **HTML5, CSS3 and vanilla JavaScript
 
 <div align="center">
 
-🇹🇳 **Arabic** — Native / Mother Tongue  
-🇫🇷 **French** — C1 · Second Language  
+🇹🇳 **Arabic** — Native  
+🇫🇷 **French** — Second Language  
 🇬🇧 **English** — B2  
 🇩🇪 **German** — A2
 
