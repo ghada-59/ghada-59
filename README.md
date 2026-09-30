@@ -81,7 +81,7 @@ Worked on a confidential healthcare AI project focused on **ECG signal analysis 
 
 The work included **ECG preprocessing and analysis, a 1D CNN + BiLSTM deep learning model, model evaluation and software integration**.
 
-> Some technical details, source code and project materials are intentionally not published because of confidentiality requirements.
+> Some technical details are intentionally kept private due to confidentiality requirements.
 
 ---
 
