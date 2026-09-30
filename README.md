@@ -173,7 +173,7 @@ An unsupervised-learning project exploring **Hierarchical Agglomerative Clusteri
 
 ---
 
-### 🧠 [MRI Brain Segmentation](https://github.com/ghada-59/Mri-Brain-Segmentation-Mini-Exercice)
+### 🧠 [MRI Brain Segmentation](https://github.com/ghada-59/Mri-Brain-Segmentation-Mini-Exercice) · 🔬 Academic / Practice Project
 
 A Python project exploring **Otsu thresholding and multi-level intensity segmentation** on brain MRI data.
 
