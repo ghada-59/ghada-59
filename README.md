@@ -88,60 +88,6 @@ Worked on a healthcare AI project focused on **ECG signal analysis and machine l
 
 ---
 
-## 🛠️ Technical Skills
-
-### Core Competencies
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Biomedical%20Engineering-EF93C4?style=for-the-badge&labelColor=27232A" alt="Biomedical Engineering">
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-EF93C4?style=for-the-badge&labelColor=27232A" alt="Artificial Intelligence">
-<img src="https://img.shields.io/badge/Machine%20Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Machine Learning">
-<img src="https://img.shields.io/badge/Deep%20Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Deep Learning">
-<img src="https://img.shields.io/badge/Data%20Science-EF93C4?style=for-the-badge&labelColor=27232A" alt="Data Science">
-<img src="https://img.shields.io/badge/Software%20Development-EF93C4?style=for-the-badge&labelColor=27232A" alt="Software Development">
-
-</div>
-
-### ✅ Already Studied
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,matlab,git,github,vscode,html,css,bootstrap,js&perline=10" alt="Programming and development tools">
-</p>
-
-<p align="center">
-<img src="https://cdn.simpleicons.org/numpy" height="46" alt="NumPy">
-<img src="https://cdn.simpleicons.org/pandas" height="46" alt="Pandas">
-<img src="https://cdn.simpleicons.org/scikitlearn" height="46" alt="Scikit-learn">
-<img src="https://cdn.simpleicons.org/opencv" height="46" alt="OpenCV">
-<img src="https://cdn.simpleicons.org/scipy" height="46" alt="SciPy">
-<img src="https://cdn.simpleicons.org/streamlit" height="46" alt="Streamlit">
-<img src="https://cdn.simpleicons.org/fastapi" height="46" alt="FastAPI">
-<img src="https://cdn.simpleicons.org/pytorch" height="46" alt="PyTorch">
-</p>
-
-### 🔄 Currently Learning
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,express,mongodb,redux,postman,aws,docker&perline=10" alt="Current learning technologies">
-</p>
-
----
-
-## 🧬 Areas of Focus
-
-| Area | Topics |
-|---|---|
-| Biomedical Signals | ECG · preprocessing · filtering · signal analysis |
-| Machine Learning | Classification · clustering · feature engineering · evaluation |
-| Deep Learning | CNN · LSTM / BiLSTM |
-| Medical Imaging | MRI · ultrasound · mammography · image processing |
-| Computer Vision | Segmentation · feature extraction · image denoising |
-| Data Science | EDA · data cleaning · statistics · visualization |
-| Healthcare Software | Python · APIs · FastAPI · Streamlit · Git/GitHub |
-
----
-
 ## 🚀 Featured Projects
 
 ### [Biomedical Image Denoising Suite](https://github.com/ghada-59/biomedical-image-denoising-suite) · 🔬 Academic / Practice Project
@@ -208,6 +154,46 @@ A browser-based practice project built with **HTML5, CSS3 and vanilla JavaScript
 
 ---
 
+## 🛠️ Technical Skills
+
+### Core Competencies
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Biomedical%20Engineering-EF93C4?style=for-the-badge&labelColor=27232A" alt="Biomedical Engineering">
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-EF93C4?style=for-the-badge&labelColor=27232A" alt="Artificial Intelligence">
+<img src="https://img.shields.io/badge/Machine%20Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Machine Learning">
+<img src="https://img.shields.io/badge/Deep%20Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Deep Learning">
+<img src="https://img.shields.io/badge/Data%20Science-EF93C4?style=for-the-badge&labelColor=27232A" alt="Data Science">
+<img src="https://img.shields.io/badge/Software%20Development-EF93C4?style=for-the-badge&labelColor=27232A" alt="Software Development">
+
+</div>
+
+### ✅ Already Studied
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,matlab,git,github,vscode,html,css,bootstrap,js&perline=10" alt="Programming and development tools">
+</p>
+
+<p align="center">
+<img src="https://cdn.simpleicons.org/numpy" height="46" alt="NumPy">
+<img src="https://cdn.simpleicons.org/pandas" height="46" alt="Pandas">
+<img src="https://cdn.simpleicons.org/scikitlearn" height="46" alt="Scikit-learn">
+<img src="https://cdn.simpleicons.org/opencv" height="46" alt="OpenCV">
+<img src="https://cdn.simpleicons.org/scipy" height="46" alt="SciPy">
+<img src="https://cdn.simpleicons.org/streamlit" height="46" alt="Streamlit">
+<img src="https://cdn.simpleicons.org/fastapi" height="46" alt="FastAPI">
+<img src="https://cdn.simpleicons.org/pytorch" height="46" alt="PyTorch">
+</p>
+
+### 🔄 Currently Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,express,mongodb,redux,postman,aws,docker&perline=10" alt="Current learning technologies">
+</p>
+
+---
+
 ## 📚 Certifications & Training
 
 ### 🎓 Certifications
@@ -219,6 +205,19 @@ A browser-based practice project built with **HTML5, CSS3 and vanilla JavaScript
 
 - **GOMYCODE — Data Science Certificate Track** · In progress · Planned completion: **December 2026**
 - **GOMYCODE — Full-Stack Web Development Certificate Track** · In progress · Planned completion: **December 2026**
+
+---
+
+## 🌍 Languages
+
+<div align="center">
+
+🇹🇳 **Arabic** — Native  
+🇫🇷 **French** — Second Language  
+🇬🇧 **English** — B2  
+🇩🇪 **German** — A2
+
+</div>
 
 ---
 
@@ -252,19 +251,6 @@ A browser-based practice project built with **HTML5, CSS3 and vanilla JavaScript
 <img src="https://img.shields.io/badge/Analytical%20Mindset-EF93C4?style=for-the-badge&labelColor=27232A" alt="Analytical Mindset">
 <img src="https://img.shields.io/badge/Rapid%20Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Rapid Learning">
 <img src="https://img.shields.io/badge/Adaptability-EF93C4?style=for-the-badge&labelColor=27232A" alt="Adaptability">
-
-</div>
-
----
-
-## 🌍 Languages
-
-<div align="center">
-
-🇹🇳 **Arabic** — Native  
-🇫🇷 **French** — Second Language  
-🇬🇧 **English** — B2  
-🇩🇪 **German** — A2
 
 </div>
 
