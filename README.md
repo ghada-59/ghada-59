@@ -77,9 +77,12 @@ Software Development
 ### 🔒 Mandatory Healthcare AI Internship — Confidential
 **June–July 2026 · 2 months**
 
-Worked on a confidential healthcare AI project focused on **ECG signal analysis and machine learning**.
+Worked on a healthcare AI project focused on **ECG signal analysis and machine learning**.
 
-The work included **ECG preprocessing and analysis, a 1D CNN + BiLSTM deep learning model, model evaluation and software integration**.
+- ECG signal preprocessing and analysis
+- 1D CNN + BiLSTM model development
+- Model evaluation
+- Software integration
 
 
 
@@ -155,7 +158,6 @@ An ECG signal-analysis and machine-learning project using **12-lead ECG signals*
 
 **Highlights:** ECG signal preprocessing · CNN1D · BiLSTM · PyTorch · signal analysis · model evaluation · FastAPI · REST API
 
-> Technical details are intentionally kept concise here to respect project confidentiality and focus on the demonstrated engineering techniques.
 
 ---
 
