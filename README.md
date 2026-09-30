@@ -149,6 +149,16 @@ Interactive biomedical-image restoration and filtering project covering **X-ray,
 
 ---
 
+### 🫀 [ECG 12-Lead Signal Classification](https://github.com/ghada-59/risk_classification_ECG12_signals) · 🔬 Healthcare AI Project
+
+An ECG signal-analysis and machine-learning project using **12-lead ECG signals** for multi-class classification.
+
+**Highlights:** ECG signal preprocessing · CNN1D · BiLSTM · PyTorch · signal analysis · model evaluation · FastAPI · REST API
+
+> Technical details are intentionally kept concise here to respect project confidentiality and focus on the demonstrated engineering techniques.
+
+---
+
 ### [Medical CBIR System](https://github.com/ghada-59/Medical_CBIR_System) · 🔬 Academic / Practice Project
 
 A **Content-Based Image Retrieval** system for breast ultrasound images using the BUSI dataset.
