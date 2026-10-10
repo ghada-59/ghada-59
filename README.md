@@ -117,9 +117,9 @@ A **Content-Based Image Retrieval** system for breast ultrasound images using th
 
 ### [MRI Brain Tumor Classification](https://github.com/ghada-59/Projet_IRM_Classifier_Naive-_Bayes) · 🔬 Academic / Practice Project
 
-Medical-image classification project comparing **Naive Bayes and SVM**, with HOG + pixel features and hyperparameter optimization.
+Medical-image classification repository with two classical machine-learning workflows: a pixel/HOG approach comparing Naive Bayes and SVM, plus a [structural-morphometry + Random Forest experiment](https://github.com/ghada-59/Projet_IRM_Classifier_Naive-_Bayes/tree/main/experiments/structural_morphometrics) using 37 handcrafted image descriptors on BRISC2025.
 
-**Highlights:** MRI · HOG · Scikit-learn · GridSearchCV · StandardScaler · evaluation metrics
+**Highlights:** MRI · HOG · handcrafted features · Random Forest · SVM · Naive Bayes · scikit-learn · evaluation metrics
 
 ---
 
