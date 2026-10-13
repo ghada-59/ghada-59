@@ -147,7 +147,7 @@ These repositories are learning projects, not clinically validated systems.
 <img src="https://cdn.simpleicons.org/tensorflow" height="42" alt="TensorFlow">
 </p>
 
-**Additional project tools:** pydicom · scikit-image · Matplotlib · pytest · GoogleTest · CMake · Eigen · GitHub Actions
+**Additional project tools:** pydicom · scikit-image · Matplotlib · pytest · GoogleTest · CMake · Eigen
 
 ### Currently Learning
 
