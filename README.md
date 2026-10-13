@@ -8,7 +8,7 @@
 
 <br><br>
 
-<h2>🎯 Graduation Internship (PFE) — March/April 2027</h2>
+<h2>🎯 Actively Seeking a Graduation Internship (PFE) — March/April 2027</h2>
 
 <p><strong>Available for a 4–6-month end-of-studies internship starting in March or April 2027</strong>, with a focus on Computer Vision, Medical Imaging, Biomedical AI or Healthcare Software.</p>
 
