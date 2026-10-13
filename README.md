@@ -8,7 +8,9 @@
 
 <br><br>
 
-<strong>Seeking a 4–6-month graduation internship (PFE) for 2027 in Computer Vision, Medical Imaging, Biomedical AI or Healthcare Software</strong>
+<h2>🎯 Actively Seeking a 4–6-Month Graduation Internship (PFE) — 2027</h2>
+
+<p><strong>My top priority is securing a graduation internship for 2027</strong> in Computer Vision, Medical Imaging, Biomedical AI or Healthcare Software. I’m especially interested in opportunities where I can contribute to a real engineering team, learn from experienced mentors and build practical healthcare technology solutions.</p>
 
 </div>
 
