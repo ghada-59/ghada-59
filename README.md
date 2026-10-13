@@ -117,43 +117,41 @@ These repositories are learning projects, not clinically validated systems.
 
 ## 🛠️ Technical Skills
 
-### Core Areas
+### Core Competencies
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Biomedical%20Engineering-EF93C4?style=for-the-badge&labelColor=27232A" alt="Biomedical Engineering">
-<img src="https://img.shields.io/badge/Medical%20Imaging-EF93C4?style=for-the-badge&labelColor=27232A" alt="Medical Imaging">
-<img src="https://img.shields.io/badge/Computer%20Vision-EF93C4?style=for-the-badge&labelColor=27232A" alt="Computer Vision">
-<img src="https://img.shields.io/badge/Biomedical%20Signals-EF93C4?style=for-the-badge&labelColor=27232A" alt="Biomedical Signals">
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-EF93C4?style=for-the-badge&labelColor=27232A" alt="Artificial Intelligence">
 <img src="https://img.shields.io/badge/Machine%20Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Machine Learning">
+<img src="https://img.shields.io/badge/Deep%20Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Deep Learning">
+<img src="https://img.shields.io/badge/Data%20Science-EF93C4?style=for-the-badge&labelColor=27232A" alt="Data Science">
 <img src="https://img.shields.io/badge/Software%20Development-EF93C4?style=for-the-badge&labelColor=27232A" alt="Software Development">
 
 </div>
 
-### Programming & Development Tools
+### ✅ Already Studied
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,matlab,git,github,vscode,html,css,js&perline=9" alt="Programming and development tools">
+<img src="https://skillicons.dev/icons?i=python,cpp,matlab,git,github,vscode,html,css,bootstrap,js&perline=10" alt="Programming and development tools">
 </p>
-
-### Libraries & Frameworks Used in Projects
 
 <p align="center">
-<img src="https://cdn.simpleicons.org/numpy" height="42" alt="NumPy">
-<img src="https://cdn.simpleicons.org/pandas" height="42" alt="Pandas">
-<img src="https://cdn.simpleicons.org/scikitlearn" height="42" alt="Scikit-learn">
-<img src="https://cdn.simpleicons.org/opencv" height="42" alt="OpenCV">
-<img src="https://cdn.simpleicons.org/scipy" height="42" alt="SciPy">
-<img src="https://cdn.simpleicons.org/streamlit" height="42" alt="Streamlit">
-<img src="https://cdn.simpleicons.org/fastapi" height="42" alt="FastAPI">
-<img src="https://cdn.simpleicons.org/tensorflow" height="42" alt="TensorFlow">
+<img src="https://cdn.simpleicons.org/numpy" height="46" alt="NumPy">
+<img src="https://cdn.simpleicons.org/pandas" height="46" alt="Pandas">
+<img src="https://cdn.simpleicons.org/scikitlearn" height="46" alt="Scikit-learn">
+<img src="https://cdn.simpleicons.org/opencv" height="46" alt="OpenCV">
+<img src="https://cdn.simpleicons.org/scipy" height="46" alt="SciPy">
+<img src="https://cdn.simpleicons.org/streamlit" height="46" alt="Streamlit">
+<img src="https://cdn.simpleicons.org/fastapi" height="46" alt="FastAPI">
+<img src="https://cdn.simpleicons.org/pytorch" height="46" alt="PyTorch">
 </p>
 
-**Additional project tools:** pydicom · scikit-image · Matplotlib · pytest · GoogleTest · CMake · Eigen
+### 🔄 Currently Learning
 
-### Currently Learning
-
-GOMYCODE learning tracks in **Data Science, SQL/RDBMS and Full-Stack Web Development** · In progress · Planned completion: **December 2026**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,express,mongodb,redux,postman,aws,docker&perline=10" alt="Current learning technologies">
+</p>
 
 ---
 
