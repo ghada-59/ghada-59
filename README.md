@@ -8,9 +8,9 @@
 
 <br><br>
 
-<h2>🎯 Actively Seeking a 4–6-Month Graduation Internship (PFE) — 2027</h2>
+<h2>🎯 Graduation Internship (PFE) — March/April 2027</h2>
 
-<p><strong>My top priority is securing a graduation internship for 2027</strong> in Computer Vision, Medical Imaging, Biomedical AI or Healthcare Software. I’m especially interested in opportunities where I can contribute to a real engineering team, learn from experienced mentors and build practical healthcare technology solutions.</p>
+<p><strong>Available for a 4–6-month end-of-studies internship starting in March or April 2027</strong>, with a focus on Computer Vision, Medical Imaging, Biomedical AI or Healthcare Software.</p>
 
 </div>
 
