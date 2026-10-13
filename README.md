@@ -16,7 +16,7 @@
 
 ---
 
-## 🌸 About Me
+## About Me
 
 I'm a **fifth-year Biomedical Engineering student at ESPITA, Tunisia**, preparing for a 4–6-month graduation internship (PFE) in 2027.
 
@@ -26,9 +26,9 @@ I studied **C++ during the first two years of my preparatory cycle** and continu
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 🔒 Mandatory Healthcare AI Internship — Confidential
+### Mandatory Healthcare AI Internship — Confidential
 **June–July 2026 · 2 months**
 
 Contributed to a healthcare AI project focused on **ECG signal analysis and machine learning**.
@@ -39,13 +39,13 @@ Contributed to a healthcare AI project focused on **ECG signal analysis and mach
 
 Further implementation details are not published because of confidentiality.
 
-### 🏥 Biomedical Engineering Internship — Fattouma Bourguiba Hospital
+### Biomedical Engineering Internship — Fattouma Bourguiba Hospital
 **June 2025 · Monastir, Tunisia · On-site · Introductory internship**
 
 - Gained initial practical exposure to biomedical equipment in a hospital environment.
 - Observed preventive maintenance, equipment verification and technical workflows.
 
-### 🏥 Biomedical Engineering Internship — Clinique La Concorde
+### Biomedical Engineering Internship — Clinique La Concorde
 **June 2024 · Sousse, Tunisia · On-site · Introductory internship**
 
 - Gained initial practical exposure to biomedical equipment and engineering workflows.
@@ -53,9 +53,9 @@ Further implementation details are not published because of confidentiality.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔒 ECG Signal Analysis & Machine Learning — Confidential Internship
+### ECG Signal Analysis & Machine Learning — Confidential Internship
 **Professional internship · Confidential project**
 
 A healthcare AI internship project centered on ECG signal analysis and machine learning. Public technical details and source code are intentionally not linked because the work is subject to confidentiality.
@@ -64,7 +64,7 @@ A healthcare AI internship project centered on ECG signal analysis and machine l
 
 ---
 
-### 🧭 [SurgiTrack-CPP — C++ 3D Medical Navigation & Safety Simulation](https://github.com/ghada-59/SurgiTrack-CPP) · 🔬 Academic / Practice Project
+### [SurgiTrack-CPP — C++ 3D Medical Navigation & Safety Simulation](https://github.com/ghada-59/SurgiTrack-CPP) · Academic / Practice Project
 
 A C++17 educational simulation that transforms 3D coordinates between reference frames and checks trajectories against simplified geometric safety zones. It is a software-engineering and mathematical-geometry exercise, not a clinical or real-time navigation system.
 
@@ -72,7 +72,7 @@ A C++17 educational simulation that transforms 3D coordinates between reference 
 
 ---
 
-### 🩻 [Biomedical Image Denoising Suite](https://github.com/ghada-59/biomedical-image-denoising-suite) · 🔬 Academic / Practice Project
+### [Biomedical Image Denoising Suite](https://github.com/ghada-59/biomedical-image-denoising-suite) · Academic / Practice Project
 
 An interactive image-restoration and filtering application for **X-ray, MRI and DICOM/CT workflows**, comparing spatial and frequency-domain filters and evaluating image quality.
 
@@ -80,7 +80,7 @@ An interactive image-restoration and filtering application for **X-ray, MRI and 
 
 ---
 
-### 🧠 [Brain Tumor MRI Classification — Deep Learning](https://github.com/ghada-59/Brain-Tumor-MRI-Deep-Learning) · 🔬 Academic / Practice Project
+### [Brain Tumor MRI Classification — Deep Learning](https://github.com/ghada-59/Brain-Tumor-MRI-Deep-Learning) · Academic / Practice Project
 
 A four-class, image-level brain MRI classification project using MobileNetV2 transfer learning. The repository includes dataset checks, duplicate audits, training/validation separation, evaluation reports and a Streamlit demonstration. It does **not** perform tumour segmentation or provide a diagnosis.
 
@@ -88,7 +88,7 @@ A four-class, image-level brain MRI classification project using MobileNetV2 tra
 
 ---
 
-### 📈 [Biomechanical Force Sensor Signal Processing & Calibration — MATLAB](https://github.com/ghada-59/biomechanical-force-sensor-matlab) · 🔬 Academic / Practice Project
+### [Biomechanical Force Sensor Signal Processing & Calibration — MATLAB](https://github.com/ghada-59/biomechanical-force-sensor-matlab) · Academic / Practice Project
 
 A **simulation-only** instrumentation workflow that generates a synthetic force signal, simulates noisy sensor voltage, applies Butterworth filtering, estimates a linear calibration model and evaluates force-estimation error. No physical sensor is connected.
 
@@ -96,7 +96,7 @@ A **simulation-only** instrumentation workflow that generates a synthetic force 
 
 ---
 
-### 🩺 [Medical CBIR System — Breast Ultrasound Image Retrieval](https://github.com/ghada-59/Medical_CBIR_System) · 🔬 Academic / Practice Project
+### [Medical CBIR System — Breast Ultrasound Image Retrieval](https://github.com/ghada-59/Medical_CBIR_System) · Academic / Practice Project
 
 A content-based image retrieval project using the BUSI breast ultrasound dataset. It combines intensity, texture and shape descriptors to retrieve similar images and evaluates retrieval consistency with Precision@K metrics. It is not a diagnostic system.
 
@@ -104,7 +104,7 @@ A content-based image retrieval project using the BUSI breast ultrasound dataset
 
 ---
 
-## 📚 Additional Academic & Practice Projects
+## Additional Academic & Practice Projects
 
 - **[Brain MRI Classification with Classical Machine Learning](https://github.com/ghada-59/Projet_IRM_Classifier_Naive-_Bayes)** — pixel/HOG features with Gaussian Naive Bayes and SVM, plus a separate handcrafted-feature Random Forest experiment.
 - **[MRI Brain Segmentation with Thresholding](https://github.com/ghada-59/Mri-Brain-Segmentation-Mini-Exercice)** and **[Mammography K-means Segmentation](https://github.com/ghada-59/Mammography-kmeans-segmentation-mini-exercice)** — classical intensity-based segmentation exercises.
@@ -115,7 +115,7 @@ These repositories are learning projects, not clinically validated systems.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Core Competencies
 
@@ -130,7 +130,7 @@ These repositories are learning projects, not clinically validated systems.
 
 </div>
 
-### ✅ Already Studied
+### Already Studied
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,matlab,git,github,vscode,html,css,bootstrap,js&perline=10" alt="Programming and development tools">
@@ -147,7 +147,7 @@ These repositories are learning projects, not clinically validated systems.
 <img src="https://cdn.simpleicons.org/pytorch" height="46" alt="PyTorch">
 </p>
 
-### 🔄 Currently Learning
+### Currently Learning
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,express,mongodb,redux,postman,aws,docker&perline=10" alt="Current learning technologies">
@@ -155,7 +155,7 @@ These repositories are learning projects, not clinically validated systems.
 
 ---
 
-## 📚 Certifications & Training
+## Certifications & Training
 
 ### Certifications
 
@@ -169,7 +169,7 @@ These repositories are learning projects, not clinically validated systems.
 
 ---
 
-## 🌍 Languages
+## Languages
 
 <div align="center">
 
@@ -182,7 +182,7 @@ These repositories are learning projects, not clinically validated systems.
 
 ---
 
-## 🌷 Leadership & Activities
+## Leadership & Activities
 
 ### General Secretary — Biomedical Club, ESPITA
 **October 2023 – May 2024**
@@ -199,7 +199,7 @@ These repositories are learning projects, not clinically validated systems.
 
 ---
 
-## 💗 Soft Skills
+## Soft Skills
 
 <div align="center">
 
@@ -214,7 +214,7 @@ These repositories are learning projects, not clinically validated systems.
 
 ---
 
-## 💌 Let's Connect
+## Let's Connect
 
 <div align="center">
 
