@@ -222,8 +222,8 @@ GOMYCODE learning tracks in **Data Science, SQL/RDBMS and Full-Stack Web Develop
   <img src="https://img.shields.io/badge/GitHub-ghada--59-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
-<a href="mailto:ghadaboughrara@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EF93C4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<a href="mailto:ghadaboughrara@gmail.com?subject=Internship%20Opportunity%20-%20Ghada%20Boughrara">
+  <img src="https://img.shields.io/badge/Email-ghadaboughrara%40gmail.com-EF93C4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ghada Boughrara">
 </a>
 
 <a href="https://www.linkedin.com/in/ghada-boughrara-a6b7b8330/">
