@@ -28,28 +28,28 @@ I studied **C++ during the first two years of my preparatory cycle** and continu
 
 ## Experience
 
-### Mandatory Healthcare AI Internship — Confidential
-**June–July 2026 · 2 months**
+### Healthcare AI Internship — Confidential Project
+**June–July 2026 · Remote · 2 months**
 
-Contributed to a healthcare AI project focused on **ECG signal analysis and machine learning**.
+Contributed to a healthcare AI project involving **ECG signal analysis and deep learning**.
 
-- ECG signal preprocessing and analysis
-- Machine-learning workflow and model evaluation
-- Software integration for a healthcare-oriented application
+- Biomedical signal processing and classification
+- Deep-learning methods, including CNN and LSTM networks
+- Healthcare software workflow and model evaluation
 
-Further implementation details are not published because of confidentiality.
+Further implementation details and results are not disclosed due to confidentiality.
 
 ### Biomedical Engineering Internship — Fattouma Bourguiba Hospital
-**June 2025 · Monastir, Tunisia · On-site · Introductory internship**
+**June 2025 · Monastir, Tunisia · On-site**
 
-- Gained initial practical exposure to biomedical equipment in a hospital environment.
-- Observed preventive maintenance, equipment verification and technical workflows.
+- Observed biomedical equipment workflows in a hospital environment.
+- Gained exposure to preventive maintenance and equipment verification.
 
 ### Biomedical Engineering Internship — Clinique La Concorde
-**June 2024 · Sousse, Tunisia · On-site · Introductory internship**
+**June 2024 · Sousse, Tunisia · On-site**
 
-- Gained initial practical exposure to biomedical equipment and engineering workflows.
-- Observed equipment verification, maintenance procedures and hospital technical practices.
+- Observed biomedical equipment and engineering workflows.
+- Gained exposure to equipment verification and maintenance procedures.
 
 ---
 
