@@ -55,12 +55,15 @@ Further implementation details are not published because of confidentiality.
 
 ## Featured Projects
 
-### ECG Signal Analysis & Machine Learning — Confidential Internship
-**Professional internship · Confidential project**
+### [ECG Risk Classification from 12-Lead Signals — CNN1D + BiLSTM](https://github.com/ghada-59/risk_classification_ECG12_signals) · Healthcare AI Internship Project
 
-A healthcare AI internship project centered on ECG signal analysis and machine learning. Public technical details and source code are intentionally not linked because the work is subject to confidentiality.
+A 12-lead ECG classification pipeline built with the PTB-XL dataset. The workflow includes signal preprocessing, auxiliary HRV/morphological features, a CNN1D + bidirectional LSTM (BiLSTM) model, evaluation, and a FastAPI API with a web dashboard for ECG visualization and prediction results.
 
-**Highlights:** ECG signal preprocessing · Machine-learning workflow · Model evaluation · Healthcare software integration
+**Highlights:** Python · PyTorch · ECG signal processing · CNN1D · BiLSTM · HRV/morphological features · Patient-independent train/validation/test folds · Macro-AUC evaluation · FastAPI · HTML/CSS/JavaScript
+
+**Reported test results:** Macro-AUC 0.898 · Accuracy 68.6% · Critical-class AUC 0.955 · Inference latency p95 227 ms (CPU benchmark).
+
+**Scope and limitations:** Research/educational decision-support prototype only. The three labels (normal, suspect, critique) are derived from PTB-XL diagnostic codes; this is not a clinically validated diagnostic tool and does not predict heart-failure decompensation.
 
 ---
 
