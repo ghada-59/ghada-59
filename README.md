@@ -4,15 +4,11 @@
 
 <h3>Biomedical Engineering · AI & Data Science</h3>
 
-<p>Healthcare Technology · Medical Imaging · Biomedical Signals · Software Development</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=19&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=750&lines=Biomedical+Engineering+Student;AI+%26+Data+Science+for+Healthcare;Medical+Imaging+%26+Biomedical+Signals;Healthcare+Software+%26+Digital+Health" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=19&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=750&lines=Biomedical+Engineering+Student;Computer+Vision+%26+Medical+Imaging;Biomedical+Signals+%26+Healthcare+AI;Software+Development+for+Health+Tech" alt="Typing animation">
 
 <br><br>
 
-<br>
-
-<strong>🎯 Seeking a 4–6-month graduation internship (PFE) for 2027 in Biomedical Engineering, AI, Medical Imaging, Biomedical Signals or Healthcare Software</strong>
+<strong>Seeking a 4–6-month graduation internship (PFE) for 2027 in Computer Vision, Medical Imaging, Biomedical AI or Healthcare Software</strong>
 
 </div>
 
@@ -20,188 +16,153 @@
 
 ## 🌸 About Me
 
-<table>
-<tr>
-<td width="65%" valign="top">
+I'm a **fifth-year Biomedical Engineering student at ESPITA, Tunisia**, preparing for a 4–6-month graduation internship (PFE) in 2027.
 
-I'm a **Biomedical Engineering student at ESPITA, Tunisia**, currently pursuing the engineering cycle of my five-year engineering program.
+My academic and practice projects explore **medical image processing, computer vision, biomedical signals, machine learning and healthcare-oriented software**. Most projects in this portfolio are clearly labelled academic/practice work. My 2026 healthcare AI internship was completed in a professional setting and is subject to confidentiality.
 
-My interests include:
-
-**Biomedical Engineering · Artificial Intelligence · Data Science · Biomedical Signal Processing · Medical Imaging · Healthcare Software**
-
-My academic and practice projects focus on applying computational methods to biomedical data and healthcare-related problems. Most of the projects shown here are academic or practice projects created to learn, experiment and strengthen my technical skills. My 2026 healthcare AI internship is the exception: it was completed in a professional setting and is subject to confidentiality.
-
-### 🔎 Current direction
-
-I'm strengthening my **AI and Data Science** foundations while progressively developing my **software engineering** skills through project-based learning.
-
-I studied **C++ during the first two years of my preparatory cycle** and continue developing my software engineering skills through coursework and projects.
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="./Image avatar.png" width="175" alt="Ghada Boughrara">
-
-<br><br>
-
-<strong>Healthcare Technology</strong>
-
-<br><br>
-
-Biomedical Engineering<br>
-AI & Data Science<br>
-Medical Imaging & Signals<br>
-Software Development
-
-</td>
-</tr>
-</table>
+I studied **C++ during the first two years of my preparatory cycle** and continue developing my programming and software-engineering skills through coursework and project work.
 
 ---
 
 ## 💼 Experience
 
-### 🏥 Biomedical Engineering Internship — Clinique La Concorde
-**June 2024 · Sousse, Tunisia · On-site · Introductory internship**
+### 🔒 Mandatory Healthcare AI Internship — Confidential
+**June–July 2026 · 2 months**
 
-- Initial practical exposure to biomedical equipment and engineering workflows.
-- Observed equipment verification, maintenance procedures and hospital technical practices.
+Contributed to a healthcare AI project focused on **ECG signal analysis and machine learning**.
+
+- ECG signal preprocessing and analysis
+- Machine-learning workflow and model evaluation
+- Software integration for a healthcare-oriented application
+
+Further implementation details are not published because of confidentiality.
 
 ### 🏥 Biomedical Engineering Internship — Fattouma Bourguiba Hospital
 **June 2025 · Monastir, Tunisia · On-site · Introductory internship**
 
-- Initial practical exposure to biomedical equipment in a hospital environment.
+- Gained initial practical exposure to biomedical equipment in a hospital environment.
 - Observed preventive maintenance, equipment verification and technical workflows.
 
-### 🔒 Mandatory Healthcare AI Internship — Confidential
-**June–July 2026 · 2 months**
+### 🏥 Biomedical Engineering Internship — Clinique La Concorde
+**June 2024 · Sousse, Tunisia · On-site · Introductory internship**
 
-Worked on a healthcare AI project focused on **ECG signal analysis and machine learning**.
-
-- ECG signal preprocessing and analysis
-- 1D CNN + BiLSTM model development
-- Model evaluation
-- Software integration
-
-
+- Gained initial practical exposure to biomedical equipment and engineering workflows.
+- Observed equipment verification, maintenance procedures and hospital technical practices.
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Biomedical Image Denoising Suite](https://github.com/ghada-59/biomedical-image-denoising-suite) · 🔬 Academic / Practice Project
+### 🔒 ECG Signal Analysis & Machine Learning — Confidential Internship
+**Professional internship · Confidential project**
 
-Interactive biomedical-image restoration and filtering project covering **X-ray, MRI and DICOM/CT** workflows.
+A healthcare AI internship project centered on ECG signal analysis and machine learning. Public technical details and source code are intentionally not linked because the work is subject to confidentiality.
 
-**Highlights:** OpenCV · pydicom · NumPy · SciPy · Streamlit · PSNR · SSIM · pytest · GitHub Actions
-
----
-
-### 🫀 [ECG 12-Lead Signal Classification](https://github.com/ghada-59/risk_classification_ECG12_signals) · 🔬 Healthcare AI Project
-
-An ECG signal-analysis and machine-learning project using **12-lead ECG signals** for multi-class classification.
-
-**Highlights:** ECG signal preprocessing · CNN1D · BiLSTM · PyTorch · signal analysis · model evaluation · FastAPI · REST API
-
+**Highlights:** ECG signal preprocessing · Machine-learning workflow · Model evaluation · Healthcare software integration
 
 ---
 
-### [Medical CBIR System](https://github.com/ghada-59/Medical_CBIR_System) · 🔬 Academic / Practice Project
+### 🧭 [SurgiTrack-CPP — C++ 3D Medical Navigation & Safety Simulation](https://github.com/ghada-59/SurgiTrack-CPP) · 🔬 Academic / Practice Project
 
-A **Content-Based Image Retrieval** system for breast ultrasound images using the BUSI dataset.
+A C++17 educational simulation that transforms 3D coordinates between reference frames and checks trajectories against simplified geometric safety zones. It is a software-engineering and mathematical-geometry exercise, not a clinical or real-time navigation system.
 
-**Highlights:** image preprocessing · feature extraction · GLCM texture features · Hu moments · similarity search · Python
-
----
-
-### [MRI Brain Tumor Classification](https://github.com/ghada-59/Projet_IRM_Classifier_Naive-_Bayes) · 🔬 Academic / Practice Project
-
-Medical-image classification repository with two classical machine-learning workflows: a pixel/HOG approach comparing Naive Bayes and SVM, plus a [structural-morphometry + Random Forest experiment](https://github.com/ghada-59/Projet_IRM_Classifier_Naive-_Bayes/tree/main/experiments/structural_morphometrics) using 37 handcrafted image descriptors on BRISC2025.
-
-**Highlights:** MRI · HOG · handcrafted features · Random Forest · SVM · Naive Bayes · scikit-learn · evaluation metrics
+**Highlights:** C++17 · Eigen · 3D homogeneous transformations · Rotation and transform composition · Geometric safety checks · CMake · GoogleTest · GitHub Actions (Linux/Windows CI)
 
 ---
 
-### 🧬 [Diabetes Dataset Segmentation — Hierarchical Clustering](https://github.com/ghada-59/HAC_diabetes_Segmentation) · 🔬 Academic / Practice Project
+### 🩻 [Biomedical Image Denoising Suite](https://github.com/ghada-59/biomedical-image-denoising-suite) · 🔬 Academic / Practice Project
 
-An unsupervised-learning project exploring **Hierarchical Agglomerative Clustering (HAC)** on the Pima diabetes dataset.
+An interactive image-restoration and filtering application for **X-ray, MRI and DICOM/CT workflows**, comparing spatial and frequency-domain filters and evaluating image quality.
 
-**Highlights:** Python · Pandas · NumPy · Scikit-learn · hierarchical clustering · PCA · data preprocessing · cluster evaluation
-
----
-
-### 🧠 [MRI Brain Segmentation](https://github.com/ghada-59/Mri-Brain-Segmentation-Mini-Exercice) · 🔬 Academic / Practice Project
-
-A Python project exploring **Otsu thresholding and multi-level intensity segmentation** on brain MRI data.
-
-**Highlights:** image processing · segmentation · thresholding · NumPy · Matplotlib
+**Highlights:** Python · OpenCV · pydicom · NumPy · SciPy · scikit-image · VTK · Streamlit · PSNR · SSIM · pytest · GitHub Actions
 
 ---
 
-### 🩺 [Diabetes Risk Prediction](https://github.com/ghada-59/Diabetes-Risk-Prediction) · 🔬 Academic / Practice Project
+### 🧠 [Brain Tumor MRI Classification — Deep Learning](https://github.com/ghada-59/Brain-Tumor-MRI-Deep-Learning) · 🔬 Academic / Practice Project
 
-Machine-learning pipeline for healthcare data with preprocessing, cross-validation and an interactive Streamlit interface.
+A four-class, image-level brain MRI classification project using MobileNetV2 transfer learning. The repository includes dataset checks, duplicate audits, training/validation separation, evaluation reports and a Streamlit demonstration. It does **not** perform tumour segmentation or provide a diagnosis.
 
-**Highlights:** Pandas · Scikit-learn · preprocessing pipelines · cross-validation · Streamlit
+**Highlights:** Python · TensorFlow/Keras · MobileNetV2 · Transfer learning · Image preprocessing · Dataset duplicate audits · Classification metrics · Streamlit
 
+---
 
-### 🎧 [VibeTunes — Music Discovery Web App](https://github.com/ghada-59/music-app-using-deezer-API) · 💻 Practice Project
+### 📈 [Biomechanical Force Sensor Signal Processing & Calibration — MATLAB](https://github.com/ghada-59/biomechanical-force-sensor-matlab) · 🔬 Academic / Practice Project
 
-A browser-based practice project built with **HTML5, CSS3 and vanilla JavaScript**, integrating the **Deezer API** for music search and previews.
+A **simulation-only** instrumentation workflow that generates a synthetic force signal, simulates noisy sensor voltage, applies Butterworth filtering, estimates a linear calibration model and evaluates force-estimation error. No physical sensor is connected.
 
-**Highlights:** JavaScript (ES6+) · REST/API integration · responsive web design · DOM interaction · GitHub Pages
+**Highlights:** MATLAB · Synthetic signal acquisition · Butterworth low-pass filtering · Linear calibration · Peak estimation · R² · RMSE · Signal visualization
+
+---
+
+### 🩺 [Medical CBIR System — Breast Ultrasound Image Retrieval](https://github.com/ghada-59/Medical_CBIR_System) · 🔬 Academic / Practice Project
+
+A content-based image retrieval project using the BUSI breast ultrasound dataset. It combines intensity, texture and shape descriptors to retrieve similar images and evaluates retrieval consistency with Precision@K metrics. It is not a diagnostic system.
+
+**Highlights:** Python · NumPy · scikit-image · GLCM texture features · Hu moments · Feature normalization · Euclidean and cosine distance · Precision@1 · Precision@5
+
+---
+
+## 📚 Additional Academic & Practice Projects
+
+- **[Brain MRI Classification with Classical Machine Learning](https://github.com/ghada-59/Projet_IRM_Classifier_Naive-_Bayes)** — pixel/HOG features with Gaussian Naive Bayes and SVM, plus a separate handcrafted-feature Random Forest experiment.
+- **[MRI Brain Segmentation with Thresholding](https://github.com/ghada-59/Mri-Brain-Segmentation-Mini-Exercice)** and **[Mammography K-means Segmentation](https://github.com/ghada-59/Mammography-kmeans-segmentation-mini-exercice)** — classical intensity-based segmentation exercises.
+- **[Diabetes Risk Prediction](https://github.com/ghada-59/Diabetes-Risk-Prediction)** — educational tabular machine-learning pipeline with preprocessing, cross-validation and a Streamlit interface.
+- **[Hierarchical Clustering for Diabetes Dataset Exploration](https://github.com/ghada-59/HAC_diabetes_Segmentation)** — unsupervised clustering, PCA visualization and internal cluster-validation metrics.
+
+These repositories are learning projects, not clinically validated systems.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Core Competencies
+### Core Areas
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Biomedical%20Engineering-EF93C4?style=for-the-badge&labelColor=27232A" alt="Biomedical Engineering">
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-EF93C4?style=for-the-badge&labelColor=27232A" alt="Artificial Intelligence">
+<img src="https://img.shields.io/badge/Medical%20Imaging-EF93C4?style=for-the-badge&labelColor=27232A" alt="Medical Imaging">
+<img src="https://img.shields.io/badge/Computer%20Vision-EF93C4?style=for-the-badge&labelColor=27232A" alt="Computer Vision">
+<img src="https://img.shields.io/badge/Biomedical%20Signals-EF93C4?style=for-the-badge&labelColor=27232A" alt="Biomedical Signals">
 <img src="https://img.shields.io/badge/Machine%20Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Machine Learning">
-<img src="https://img.shields.io/badge/Deep%20Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Deep Learning">
-<img src="https://img.shields.io/badge/Data%20Science-EF93C4?style=for-the-badge&labelColor=27232A" alt="Data Science">
 <img src="https://img.shields.io/badge/Software%20Development-EF93C4?style=for-the-badge&labelColor=27232A" alt="Software Development">
 
 </div>
 
-### ✅ Already Studied
+### Programming & Development Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,matlab,git,github,vscode,html,css,bootstrap,js&perline=10" alt="Programming and development tools">
+<img src="https://skillicons.dev/icons?i=python,cpp,matlab,git,github,vscode,html,css,js&perline=9" alt="Programming and development tools">
 </p>
+
+### Libraries & Frameworks Used in Projects
 
 <p align="center">
-<img src="https://cdn.simpleicons.org/numpy" height="46" alt="NumPy">
-<img src="https://cdn.simpleicons.org/pandas" height="46" alt="Pandas">
-<img src="https://cdn.simpleicons.org/scikitlearn" height="46" alt="Scikit-learn">
-<img src="https://cdn.simpleicons.org/opencv" height="46" alt="OpenCV">
-<img src="https://cdn.simpleicons.org/scipy" height="46" alt="SciPy">
-<img src="https://cdn.simpleicons.org/streamlit" height="46" alt="Streamlit">
-<img src="https://cdn.simpleicons.org/fastapi" height="46" alt="FastAPI">
-<img src="https://cdn.simpleicons.org/pytorch" height="46" alt="PyTorch">
+<img src="https://cdn.simpleicons.org/numpy" height="42" alt="NumPy">
+<img src="https://cdn.simpleicons.org/pandas" height="42" alt="Pandas">
+<img src="https://cdn.simpleicons.org/scikitlearn" height="42" alt="Scikit-learn">
+<img src="https://cdn.simpleicons.org/opencv" height="42" alt="OpenCV">
+<img src="https://cdn.simpleicons.org/scipy" height="42" alt="SciPy">
+<img src="https://cdn.simpleicons.org/streamlit" height="42" alt="Streamlit">
+<img src="https://cdn.simpleicons.org/fastapi" height="42" alt="FastAPI">
+<img src="https://cdn.simpleicons.org/tensorflow" height="42" alt="TensorFlow">
 </p>
 
-### 🔄 Currently Learning
+**Additional project tools:** pydicom · scikit-image · Matplotlib · pytest · GoogleTest · CMake · Eigen · GitHub Actions
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,express,mongodb,redux,postman,aws,docker&perline=10" alt="Current learning technologies">
-</p>
+### Currently Learning
+
+GOMYCODE learning tracks in **Data Science, SQL/RDBMS and Full-Stack Web Development** · In progress · Planned completion: **December 2026**
 
 ---
 
 ## 📚 Certifications & Training
 
-### 🎓 Certifications
+### Certifications
 
 - **IBM SkillsBuild — AI Fundamentals**
 - **Cisco Networking Academy — Programming Essentials in Python**
 
-### 📘 Current Learning
+### Current Training
 
 - **GOMYCODE — Data Science Certificate Track** · In progress · Planned completion: **December 2026**
 - **GOMYCODE — Full-Stack Web Development Certificate Track** · In progress · Planned completion: **December 2026**
@@ -213,7 +174,7 @@ A browser-based practice project built with **HTML5, CSS3 and vanilla JavaScript
 <div align="center">
 
 🇹🇳 **Arabic** — Native  
-🇫🇷 **French** — Second Language  
+🇫🇷 **French** — Second language  
 🇬🇧 **English** — B2  
 🇩🇪 **German** — A2
 
@@ -245,26 +206,9 @@ A browser-based practice project built with **HTML5, CSS3 and vanilla JavaScript
 <img src="https://img.shields.io/badge/Communication-EF93C4?style=for-the-badge&labelColor=27232A" alt="Communication">
 <img src="https://img.shields.io/badge/Organization%20%26%20Time%20Management-EF93C4?style=for-the-badge&labelColor=27232A" alt="Organization and Time Management">
 <img src="https://img.shields.io/badge/Teamwork-EF93C4?style=for-the-badge&labelColor=27232A" alt="Teamwork">
-
-<br>
-
 <img src="https://img.shields.io/badge/Analytical%20Mindset-EF93C4?style=for-the-badge&labelColor=27232A" alt="Analytical Mindset">
 <img src="https://img.shields.io/badge/Rapid%20Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Rapid Learning">
 <img src="https://img.shields.io/badge/Adaptability-EF93C4?style=for-the-badge&labelColor=27232A" alt="Adaptability">
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghada-59/ghada-59/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghada-59/ghada-59/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ghada-59/ghada-59/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
@@ -292,6 +236,6 @@ A browser-based practice project built with **HTML5, CSS3 and vanilla JavaScript
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:EF93C4,100:F8BBD0" alt="Pink footer">
 
-**🌸 Learning • Building • Exploring Healthcare Technology**
+**Biomedical Engineering • Practical Projects • Continuous Learning**
 
 </div>
