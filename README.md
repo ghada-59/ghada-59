@@ -40,13 +40,13 @@ Contributed to a healthcare AI project involving **ECG signal analysis and deep 
 Further implementation details and results are not disclosed due to confidentiality.
 
 ### Biomedical Engineering Internship — Fattouma Bourguiba Hospital
-**June 2025 · Monastir, Tunisia · On-site**
+**June 2025 · Monastir, Tunisia · On-site · Introductory internship**
 
 - Observed biomedical equipment workflows in a hospital environment.
 - Gained exposure to preventive maintenance and equipment verification.
 
 ### Biomedical Engineering Internship — Clinique La Concorde
-**June 2024 · Sousse, Tunisia · On-site**
+**June 2024 · Sousse, Tunisia · On-site · Introductory internship**
 
 - Observed biomedical equipment and engineering workflows.
 - Gained exposure to equipment verification and maintenance procedures.
