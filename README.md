@@ -226,7 +226,9 @@ GOMYCODE learning tracks in **Data Science, SQL/RDBMS and Full-Stack Web Develop
   <img src="https://img.shields.io/badge/Email-Contact-EF93C4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<!-- Add your LinkedIn once the profile is ready -->
+<a href="https://www.linkedin.com/in/ghada-boughrara-a6b7b8330/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ghada%20Boughrara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 </div>
 
@@ -236,6 +238,6 @@ GOMYCODE learning tracks in **Data Science, SQL/RDBMS and Full-Stack Web Develop
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:EF93C4,100:F8BBD0" alt="Pink footer">
 
-**Biomedical Engineering • Practical Projects • Continuous Learning**
+**Biomedical Engineering • Continuous Learning**
 
 </div>
