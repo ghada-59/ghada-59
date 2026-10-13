@@ -55,12 +55,14 @@ Further implementation details are not published because of confidentiality.
 
 ## Featured Projects
 
-### Healthcare AI Internship — ECG Signal Analysis
-**Professional internship · Confidential project**
+### Healthcare AI Internship — ECG Signal Analysis & Deep Learning
+**Professional Internship · Confidential Project**
 
-Contributed to a healthcare AI project involving ECG signal analysis and machine learning. Further technical details, implementation specifics, performance metrics, and source code are not disclosed here because the work is confidential.
+Contributed to a healthcare AI project focused on ECG signal analysis and machine learning, involving deep learning techniques for biomedical signal classification.
 
-**Public summary:** Biomedical signal analysis · Machine-learning workflow · Healthcare software development
+**Technical areas:** ECG Signal Processing · Deep Learning · Convolutional Neural Networks (CNNs) · LSTM Networks · Model Evaluation · Healthcare Software Development
+
+Further implementation details, performance metrics, and source code are not disclosed due to confidentiality.
 
 ---
 
