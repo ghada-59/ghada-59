@@ -180,7 +180,3 @@ Communication · Organization & Time Management · Teamwork · Analytical Mindse
 - [LinkedIn](https://www.linkedin.com/in/ghada-boughrara-a6b7b8330/)
 
 **Biomedical Engineering · Continuous Learning**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:EF93C4,100:F8BBD0" alt="Pink footer">
-
-**Biomedical Engineering • Continuous Learning**
