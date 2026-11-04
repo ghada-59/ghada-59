@@ -70,7 +70,7 @@ Further implementation details, performance metrics, and source code are not dis
 
 The projects below are academic, independent or practice work. They are presented as engineering and learning projects, not as clinically validated systems.
 
-### [OsteoMorph3D — 3D Bone Morphometry from CT (MATLAB)](https://github.com/ghada-59/Matlab-phantom-Brain-3D-pipeline) · Newest project
+### [OsteoMorph3D — 3D Bone Morphometry from CT (MATLAB)](https://github.com/ghada-59/Matlab-phantom-Brain-3D-pipeline)
 
 A phantom-first 3D morphometry pipeline built around synthetic ellipsoids with a known analytical volume. It explores HU handling, physical voxel geometry, 3D segmentation, mesh-based measurements and a React/three.js research viewer. Optional DICOM input is supported, but the project is non-clinical. MATLAB-generated measurements and result screenshots are still pending a local execution.
 
