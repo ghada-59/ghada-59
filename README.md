@@ -66,56 +66,74 @@ Further implementation details, performance metrics, and source code are not dis
 
 ---
 
-### [SurgiTrack-CPP — C++ 3D Medical Navigation & Safety Simulation](https://github.com/ghada-59/SurgiTrack-CPP) · Academic / Practice Project
+## Academic & Practice Projects
 
-A C++17 educational simulation that transforms 3D coordinates between reference frames and checks trajectories against simplified geometric safety zones. It is a software-engineering and mathematical-geometry exercise, not a clinical or real-time navigation system.
+The projects below are academic, independent or practice work. They are presented as engineering and learning projects, not as clinically validated systems.
 
-**Highlights:** C++17 · Eigen · 3D homogeneous transformations · Rotation and transform composition · Geometric safety checks · CMake · GoogleTest · GitHub Actions (Linux/Windows CI)
+### [OsteoMorph3D — 3D Bone Morphometry from CT (MATLAB)](https://github.com/ghada-59/Matlab-phantom-Brain-3D-pipeline) · Newest project
 
----
+A phantom-first 3D morphometry pipeline built around synthetic ellipsoids with a known analytical volume. It explores HU handling, physical voxel geometry, 3D segmentation, mesh-based measurements and a React/three.js research viewer. Optional DICOM input is supported, but the project is non-clinical. MATLAB-generated measurements and result screenshots are still pending a local execution.
 
-### [Biomedical Image Denoising Suite](https://github.com/ghada-59/biomedical-image-denoising-suite) · Academic / Practice Project
+**Highlights:** MATLAB · Image Processing Toolbox · DICOM metadata · Hounsfield Units · Anisotropic voxel spacing · 3D segmentation · Isosurface meshes · Geometric validation · React · Vite · three.js
 
-An interactive image-restoration and filtering application for **X-ray, MRI and DICOM/CT workflows**, comparing spatial and frequency-domain filters and evaluating image quality.
+### [Biomedical Image Denoising Suite](https://github.com/ghada-59/biomedical-image-denoising-suite)
+
+An interactive image-restoration and filtering application for X-ray, MRI and DICOM/CT workflows, comparing spatial and frequency-domain methods and evaluating image-quality measures. Its CT benchmark is exploratory and uses a limited synthetic-noise setup; it is not clinical validation.
 
 **Highlights:** Python · OpenCV · pydicom · NumPy · SciPy · scikit-image · VTK · Streamlit · PSNR · SSIM · pytest · GitHub Actions
 
----
+### [Brain Tumor MRI Classification — Deep Learning](https://github.com/ghada-59/Brain-Tumor-MRI-Deep-Learning)
 
-### [Brain Tumor MRI Classification — Deep Learning](https://github.com/ghada-59/Brain-Tumor-MRI-Deep-Learning) · Academic / Practice Project
+A four-class, image-level brain MRI classification project using MobileNetV2 transfer learning. The repository includes dataset checks, duplicate audits, evaluation reports and a demonstration interface. It does not perform tumour segmentation or provide a diagnosis; evaluation is not patient-level clinical validation.
 
-A four-class, image-level brain MRI classification project using MobileNetV2 transfer learning. The repository includes dataset checks, duplicate audits, training/validation separation, evaluation reports and a Streamlit demonstration. It does **not** perform tumour segmentation or provide a diagnosis.
+**Highlights:** Python · TensorFlow/Keras · MobileNetV2 · Transfer learning · Image preprocessing · Duplicate audits · Classification metrics · Streamlit
 
-**Highlights:** Python · TensorFlow/Keras · MobileNetV2 · Transfer learning · Image preprocessing · Dataset duplicate audits · Classification metrics · Streamlit
+### [SurgiTrack-CPP — 3D Medical Navigation & Safety Simulation](https://github.com/ghada-59/SurgiTrack-CPP)
 
----
+A C++17 educational simulation for 3D coordinate transformations, rigid registration concepts and trajectory checks against simplified geometric safety zones. It is a mathematical/software-engineering exercise, not a clinical or real-time navigation system.
 
-### [Biomechanical Force Sensor Signal Processing & Calibration — MATLAB](https://github.com/ghada-59/biomechanical-force-sensor-matlab) · Academic / Practice Project
+**Highlights:** C++17 · Eigen · 3D homogeneous transformations · Rigid registration · Geometric safety checks · CMake · GoogleTest · GitHub Actions (Linux/Windows CI)
 
-A **simulation-only** instrumentation workflow that generates a synthetic force signal, simulates noisy sensor voltage, applies Butterworth filtering, estimates a linear calibration model and evaluates force-estimation error. No physical sensor is connected.
+### [Medical CBIR System — Breast Ultrasound Image Retrieval](https://github.com/ghada-59/Medical_CBIR_System)
 
-**Highlights:** MATLAB · Synthetic signal acquisition · Butterworth low-pass filtering · Linear calibration · Peak estimation · R² · RMSE · Signal visualization
-
----
-
-### [Medical CBIR System — Breast Ultrasound Image Retrieval](https://github.com/ghada-59/Medical_CBIR_System) · Academic / Practice Project
-
-A content-based image retrieval project using the BUSI breast ultrasound dataset. It combines intensity, texture and shape descriptors to retrieve similar images and evaluates retrieval consistency with Precision@K metrics. It is not a diagnostic system.
+A content-based image retrieval project using the BUSI breast ultrasound dataset. It combines intensity, texture and shape descriptors to retrieve similar images and evaluates retrieval consistency with Precision@K. It is not a diagnostic system.
 
 **Highlights:** Python · NumPy · scikit-image · GLCM texture features · Hu moments · Feature normalization · Euclidean and cosine distance · Precision@1 · Precision@5
 
----
+### [Biomechanical Force Sensor Signal Processing & Calibration — MATLAB](https://github.com/ghada-59/biomechanical-force-sensor-matlab)
 
-## Additional Academic & Practice Projects
+A simulation-only instrumentation workflow that generates a synthetic force signal, simulates noisy sensor voltage, applies Butterworth filtering, estimates a linear calibration model and evaluates force-estimation error. No physical sensor is connected.
 
-- **[Brain MRI Classification with Classical Machine Learning](https://github.com/ghada-59/Projet_IRM_Classifier_Naive-_Bayes)** — pixel/HOG features with Gaussian Naive Bayes and SVM, plus a separate handcrafted-feature Random Forest experiment.
-- **[MRI Brain Segmentation with Thresholding](https://github.com/ghada-59/Mri-Brain-Segmentation-Mini-Exercice)** and **[Mammography K-means Segmentation](https://github.com/ghada-59/Mammography-kmeans-segmentation-mini-exercice)** — classical intensity-based segmentation exercises.
-- **[Diabetes Risk Prediction](https://github.com/ghada-59/Diabetes-Risk-Prediction)** — educational tabular machine-learning pipeline with preprocessing, cross-validation and a Streamlit interface.
-- **[Hierarchical Clustering for Diabetes Dataset Exploration](https://github.com/ghada-59/HAC_diabetes_Segmentation)** — unsupervised clustering, PCA visualization and internal cluster-validation metrics.
+**Highlights:** MATLAB · Synthetic signal acquisition · Butterworth low-pass filtering · Linear calibration · Peak estimation · R² · RMSE · Signal visualization
 
-These repositories are learning projects, not clinically validated systems.
+### [Brain MRI Classification with Classical Machine Learning](https://github.com/ghada-59/Projet_IRM_Classifier_Naive-_Bayes)
 
----
+Classical machine-learning experiments for MRI image classification using pixel/HOG representations and handcrafted features with Gaussian Naive Bayes, SVM and Random Forest workflows. The repository keeps separate experiments and evaluation contexts distinct.
+
+**Highlights:** Python · NumPy · scikit-learn · HOG · Handcrafted features · Naive Bayes · SVM · Random Forest
+
+### [MRI Brain Segmentation with Thresholding](https://github.com/ghada-59/Mri-Brain-Segmentation-Mini-Exercice)
+
+A classical image-processing exercise exploring threshold-based MRI segmentation, binary masks and image-intensity analysis.
+
+### [Mammography K-means Segmentation](https://github.com/ghada-59/Mammography-kmeans-segmentation-mini-exercice)
+
+An introductory unsupervised segmentation exercise using K-means intensity clustering. It is a learning project; no diagnostic interpretation is claimed.
+
+### [Diabetes Risk Prediction](https://github.com/ghada-59/Diabetes-Risk-Prediction)
+
+An educational tabular-data workflow for preprocessing and exploring diabetes-risk classification. Dataset provenance and the limited dataset scale should be considered when interpreting the project; it is not a validated clinical risk model.
+
+### [Hierarchical Clustering for Diabetes Dataset Exploration](https://github.com/ghada-59/HAC_diabetes_Segmentation)
+
+An unsupervised-learning project using hierarchical clustering, dendrograms, PCA visualisation and internal cluster-validation measures to explore a diabetes dataset. Clusters are exploratory groups, not clinical patient categories.
+
+## Additional Academic Exercises
+
+- [Biomedical Feature Matrix & Linear Algebra Exercise](https://github.com/ghada-59/Biomedical-Signal-Matrix-Analysis-Exercice) — descriptive statistics, matrix operations and weighted combinations using a small synthetic 4 × 3 feature matrix; not physiological measurements.
+- [Diabetes Dataset — Exploratory Data Analysis with ydata-profiling](https://github.com/ghada-59/Diabetes-dataset-ydata-profiling) — notebook-based dataset inspection, missing-value review, descriptive statistics, correlations and automated profiling before modelling.
+
+These repositories demonstrate coursework and practical exploration. Results and limitations should be interpreted within each dataset's provenance, scale and experimental design.
 
 ## Technical Skills
 
