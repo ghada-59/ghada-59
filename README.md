@@ -1,10 +1,18 @@
-# Ghada Boughrara
+<div align="center">
 
-### Biomedical Engineering · AI & Data Science
+<h1>Ghada Boughrara</h1>
 
-*Computer Vision & Medical Imaging · Biomedical Signals · Healthcare Software*
+<h3>Biomedical Engineering · AI & Data Science</h3>
 
-**Actively seeking a 4–6-month graduation internship (PFE), March/April 2027.**
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=19&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=750&lines=Biomedical+Engineering+Student;Computer+Vision+%26+Medical+Imaging;Biomedical+Signals+%26+Healthcare+AI;Software+Development+for+Health+Tech" alt="Typing animation">
+
+<br><br>
+
+<h2>🎯 Actively Seeking a Graduation Internship (PFE) — March/April 2027</h2>
+
+
+
+</div>
 
 ---
 
@@ -113,17 +121,39 @@ These repositories are learning projects, not clinically validated systems.
 
 ### Core Competencies
 
-Biomedical Engineering · Artificial Intelligence · Machine Learning · Deep Learning · Data Science · Software Development
+<div align="center">
+
+<img src="https://img.shields.io/badge/Biomedical%20Engineering-EF93C4?style=for-the-badge&labelColor=27232A" alt="Biomedical Engineering">
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-EF93C4?style=for-the-badge&labelColor=27232A" alt="Artificial Intelligence">
+<img src="https://img.shields.io/badge/Machine%20Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Machine Learning">
+<img src="https://img.shields.io/badge/Deep%20Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Deep Learning">
+<img src="https://img.shields.io/badge/Data%20Science-EF93C4?style=for-the-badge&labelColor=27232A" alt="Data Science">
+<img src="https://img.shields.io/badge/Software%20Development-EF93C4?style=for-the-badge&labelColor=27232A" alt="Software Development">
+
+</div>
 
 ### Already Studied
 
-**Programming & tools:** Python · C++ · MATLAB · Git · GitHub · VS Code · HTML · CSS · Bootstrap · JavaScript
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,matlab,git,github,vscode,html,css,bootstrap,js&perline=10" alt="Programming and development tools">
+</p>
 
-**Scientific libraries and platforms:** NumPy · Pandas · scikit-learn · OpenCV · SciPy · Streamlit · FastAPI · PyTorch
+<p align="center">
+<img src="https://cdn.simpleicons.org/numpy" height="46" alt="NumPy">
+<img src="https://cdn.simpleicons.org/pandas" height="46" alt="Pandas">
+<img src="https://cdn.simpleicons.org/scikitlearn" height="46" alt="Scikit-learn">
+<img src="https://cdn.simpleicons.org/opencv" height="46" alt="OpenCV">
+<img src="https://cdn.simpleicons.org/scipy" height="46" alt="SciPy">
+<img src="https://cdn.simpleicons.org/streamlit" height="46" alt="Streamlit">
+<img src="https://cdn.simpleicons.org/fastapi" height="46" alt="FastAPI">
+<img src="https://cdn.simpleicons.org/pytorch" height="46" alt="PyTorch">
+</p>
 
 ### Currently Learning
 
-React · TypeScript · Next.js · Node.js · Express · MongoDB · Redux · Postman · AWS · Docker
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,express,mongodb,redux,postman,aws,docker&perline=10" alt="Current learning technologies">
+</p>
 
 ---
 
@@ -143,10 +173,14 @@ React · TypeScript · Next.js · Node.js · Express · MongoDB · Redux · Post
 
 ## Languages
 
-- Arabic — Native
-- French — Second language
-- English — B2
-- German — A2
+<div align="center">
+
+🇹🇳 **Arabic** — Native  
+🇫🇷 **French** — Second language  
+🇬🇧 **English** — B2  
+🇩🇪 **German** — A2
+
+</div>
 
 ---
 
@@ -169,14 +203,43 @@ React · TypeScript · Next.js · Node.js · Express · MongoDB · Redux · Post
 
 ## Soft Skills
 
-Communication · Organization & Time Management · Teamwork · Analytical Mindset · Rapid Learning · Adaptability
+<div align="center">
+
+<img src="https://img.shields.io/badge/Communication-EF93C4?style=for-the-badge&labelColor=27232A" alt="Communication">
+<img src="https://img.shields.io/badge/Organization%20%26%20Time%20Management-EF93C4?style=for-the-badge&labelColor=27232A" alt="Organization and Time Management">
+<img src="https://img.shields.io/badge/Teamwork-EF93C4?style=for-the-badge&labelColor=27232A" alt="Teamwork">
+<img src="https://img.shields.io/badge/Analytical%20Mindset-EF93C4?style=for-the-badge&labelColor=27232A" alt="Analytical Mindset">
+<img src="https://img.shields.io/badge/Rapid%20Learning-EF93C4?style=for-the-badge&labelColor=27232A" alt="Rapid Learning">
+<img src="https://img.shields.io/badge/Adaptability-EF93C4?style=for-the-badge&labelColor=27232A" alt="Adaptability">
+
+</div>
 
 ---
 
 ## Let's Connect
 
-- [GitHub](https://github.com/ghada-59)
-- [Email](mailto:ghadaboughrara@gmail.com?subject=Internship%20Opportunity%20-%20Ghada%20Boughrara)
-- [LinkedIn](https://www.linkedin.com/in/ghada-boughrara-a6b7b8330/)
+<div align="center">
 
-**Biomedical Engineering · Continuous Learning**
+<a href="https://github.com/ghada-59">
+  <img src="https://img.shields.io/badge/GitHub-ghada--59-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+
+<a href="mailto:ghadaboughrara@gmail.com?subject=Internship%20Opportunity%20-%20Ghada%20Boughrara">
+  <img src="https://img.shields.io/badge/Email-ghadaboughrara%40gmail.com-EF93C4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ghada Boughrara">
+</a>
+
+<a href="https://www.linkedin.com/in/ghada-boughrara-a6b7b8330/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ghada%20Boughrara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:EF93C4,100:F8BBD0" alt="Pink footer">
+
+**Biomedical Engineering • Continuous Learning**
+
+</div>
