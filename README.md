@@ -55,7 +55,11 @@ Further implementation details and results are not disclosed due to confidential
 
 ## Featured Projects
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/ghada-59/ghada-59/main/assets/ecg-internship-poster-clean.jpg" alt="Cardiac risk classification from 12-lead ECG — internship poster">
+<p align="center">
+  <a href="https://raw.githubusercontent.com/ghada-59/ghada-59/main/assets/ecg-internship-poster.png">
+    <img src="https://raw.githubusercontent.com/ghada-59/ghada-59/main/assets/ecg-internship-poster.png" alt="High-resolution ECG cardiac-risk classification internship poster" width="100%">
+  </a>
+</p>
 
 **Professional Internship · June–July 2026**
 
