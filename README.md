@@ -55,28 +55,19 @@ Further implementation details and results are not disclosed due to confidential
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="62%" valign="top">
+<img align="right" width="280" src="https://raw.githubusercontent.com/ghada-59/ghada-59/main/assets/ecg-internship-poster.jpg" alt="Cardiac risk classification from 12-lead ECG — internship poster">
 
-<p><strong>Professional Internship · June–July 2026</strong></p>
+**Professional Internship · June–July 2026**
 
-<p>Contributed to a healthcare AI project focused on ECG signal analysis and deep learning for biomedical signal classification.</p>
+Contributed to a healthcare AI project focused on ECG signal analysis and deep learning for biomedical signal classification.
 
-<p><strong>Technical areas:</strong> ECG Signal Processing · Deep Learning · CNN1D-BiLSTM · Model Evaluation · Healthcare Software Development</p>
+**Technical areas:** ECG Signal Processing · Deep Learning · CNN1D-BiLSTM · Model Evaluation · Healthcare Software Development
 
-<p><em>The poster presents experiments conducted on the public PTB-XL dataset. Company data, internal results and confidential implementation details are not shown.</em></p>
+*The poster presents experiments conducted on the public PTB-XL dataset. Company data, internal results and confidential implementation details are not shown.*
 
-</td>
-<td width="38%" valign="top" align="center">
+[View full internship poster (PDF)](https://ghada-ecg-internship-poster-full.julius.site?utm_source=shared_artifact)
 
-<a href="https://ghada-ecg-internship-poster-full.julius.site?utm_source=shared_artifact"><img src="assets/ecg-internship-poster.webp" alt="ECG cardiac-risk classification internship poster preview" width="100%"></a>
-
-<p><sub>Internship poster · English</sub><br><a href="https://ghada-ecg-internship-poster-full.julius.site?utm_source=shared_artifact">View full poster (PDF)</a></p>
-
-</td>
-</tr>
-</table>
+<div align="left" style="clear: both;"></div>
 
 ---
 
