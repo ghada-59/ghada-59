@@ -10,6 +10,8 @@
 
 <h2>🎯 Actively Seeking a Graduation Internship (PFE) — March/April 2027</h2>
 
+<h3>I have university exams from 9 to 15 November. During that week I can still take a short call outside exam hours, and from 16 November I am fully available for an interview at your convenience. </h3>
+
 
 
 </div>
