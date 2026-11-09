@@ -25,7 +25,9 @@ I'm a **fifth-year Biomedical Engineering student at ESPITA, Tunisia**, preparin
 
 My academic and practice projects explore **medical image processing, computer vision, biomedical signals, machine learning and healthcare-oriented software**. Most projects in this portfolio are clearly labelled academic/practice work. My 2026 healthcare AI internship was completed in a professional setting and is subject to confidentiality.
 
-I studied **C++ during the first two years of my preparatory cycle** and continue developing my programming and software-engineering skills through coursework and project work.
+I studied **C++ and matlab during the first two years of my preparatory cycle** and continue developing my programming and software-engineering skills through coursework and project work. 
+
+I am currently completing two professional training programs at GOMYCODE: the Data Science Certificate Track and the Full-Stack Web Development Certificate Track, both expected to be completed by December 2026 to strengthen my technical skills in data analysis, programming, and software development.
 
 ---
 
