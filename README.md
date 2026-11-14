@@ -96,6 +96,12 @@ An interactive image-restoration and filtering application for X-ray, MRI and DI
 
 **Highlights:** Python · OpenCV · pydicom · NumPy · SciPy · scikit-image · VTK · Streamlit · PSNR · SSIM · pytest · GitHub Actions
 
+### [Brain Tumour MRI Segmentation — 2D U-Net (MONAI/PyTorch)](https://github.com/ghada-59/Brain-tumour-model)
+
+A four-sequence brain MRI segmentation pipeline using a from-scratch 2D U-Net with patient-level train/validation/test splitting. Includes a React/TypeScript/Three.js viewer for linked axial, coronal and sagittal slices, plus 3D mask visualization. In a starter evaluation on five held-out patients, mean Dice scores were **WT 0.813 ± 0.057, TC 0.777 ± 0.065 and ET 0.754 ± 0.033**. The model uses random initialization (no pretrained weights); this is a small-cohort educational project, not a clinically validated system.
+
+**Highlights:** Python · PyTorch · MONAI · 2D U-Net · DiceCELoss · Four MRI sequences · Patient-level data split · Dice evaluation (WT/TC/ET) · React · TypeScript · Three.js
+
 ### [Brain Tumor MRI Classification — Deep Learning](https://github.com/ghada-59/Brain-Tumor-MRI-Deep-Learning)
 
 A four-class, image-level brain MRI classification project using MobileNetV2 transfer learning. The repository includes dataset checks, duplicate audits, evaluation reports and a demonstration interface. It does not perform tumour segmentation or provide a diagnosis; evaluation is not patient-level clinical validation.
