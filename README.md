@@ -9,7 +9,7 @@
 <br><br>
 
 <h2>🎯 Actively Seeking a Graduation Internship (PFE) , Tunisia: Available from January/February 2027 
-                                                       , International opportunities: Available from March/April 2027</h2>
+                                                       , International opportunities: Available from February/March/April 2027</h2>
 
 
 </div>
